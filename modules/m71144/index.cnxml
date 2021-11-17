@@ -1,0 +1,283 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Developing Pitches for Various Audiences and Goals</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71144</md:content-id>
+  <md:title>Developing Pitches for Various Audiences and Goals</md:title>
+  <md:abstract/>
+  <md:uuid>80f2fd80-f731-4755-bd91-2dc26330a11a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm355975504">Portions of the material in this section are based on original work by Mark Poepsel and produced with support from the Rebus Community. The original is freely available under the terms of the CC BY 4.0 license at https://press.rebus.community/media-innovation-and-entrepreneurship/.</para>
+<section id="fs-idm666908192" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-idm271501632">By the end of this section, you will be able to:</para>
+<list id="fs-idm542998320" list-type="bulleted">
+<item>Understand the various audiences an entrepreneur may pitch to and how the pitch goals vary for each</item>
+<item>Define and develop the key elements of a pitch</item>
+<item>Describe a pitch deck and pitfalls to avoid</item>
+<item>Create and create an elevator pitch</item>
+</list>
+</section>
+<para id="fs-idm257508336">Let’s look more closely at how to develop pitches. Remember that we defined a <term class="no-emphasis">pitch</term> as a formal but brief presentation that is delivered (usually) to potential investors in a startup. As such, a pitch is designed to be clear, concise, and compelling around key areas, typically the key problem or unmet need, the market opportunity, the innovative solution, the management plan, the financial needs, and any risks.</para>
+<para id="fs-idm250002768">You will often need to craft different types of pitches for different audiences. Key audiences include potential investors, social connectors, potential partners, key employee recruits, and the broader community, particularly if one needs to request permits or regulatory concessions. One misconception about pitching is that it is always done to investors who are ready to fork over a few hundred thousand dollars to the team that presents the best idea of the day. While this is, more or less, the premise of <emphasis effect="italics">Shark Tank</emphasis>, it is not how pitching works for most entrepreneurs.<footnote id="fs-idm256756432">Bill Rader. “The Truth about Pitching (and Why Many Entrepreneurs Fail Here).” <emphasis effect="italics">Inc.</emphasis> November 22, 2017. https://www.inc.com/bill-rader/what-theranoss-downfall-can-teach-entrepreneurs-about-pitching.html</footnote> Entrepreneurs may pitch to friends and family as they develop an idea, and, at another time, they may pitch to well-connected entrepreneurs and investors who have little interest in the market sector in question but who can make the right introductions or helpful connections. Entrepreneurs might make pitches in what is known as a <term class="no-emphasis">pitch competition</term>, hoping for a shot at funding and mentoring.</para>
+<para id="fs-idm259266448">Pitches come in many forms, but underlying them is that to pitch is to <emphasis effect="italics">ask for something</emphasis>. <link target-id="fs-idm524481632"/> provides an overview of different audiences you might pitch to, outlining how the approach and presentation may vary for each.</para>
+<table id="fs-idm524481632" summary="No Summary" class="top-titled">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c5">Summary of Pitch Scenarios</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Audience</entry>
+<entry valign="top" align="center">Pitch Length</entry>
+<entry valign="top" align="center">Pitch Approach</entry>
+<entry valign="top" align="center">Key Content</entry>
+<entry valign="top" align="center">Notes</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Friends and family</entry>
+<entry valign="top" align="left">Fifteen minutes</entry>
+<entry valign="top" align="left">Usually verbal with a simple companion one-page handout explaining the concept, value proposition, and funds needed to get the enterprise off the ground</entry>
+<entry valign="top" align="left">Should cover basic elements of the business model and concept, unmet need, and solution (including if it seems patentable), market and sales potential, and high-level risks</entry>
+<entry valign="top" align="left">This common pitch can be emotional as founders are appealing to people they know well and are counting on their personal reputation and credibility vs. detailed data to sell the idea</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Elevator pitch competitions</entry>
+<entry valign="top" align="left">Two to five minutes</entry>
+<entry valign="top" align="left">Usually a verbal pitch or single slide summarizing need, solution, market, opportunity</entry>
+<entry valign="top" align="left">Should cover high-level innovation, value proposition, and a “call to action” to close the audience</entry>
+<entry valign="top" align="left">Very common at accelerator or incubator events, university entrepreneurship events, etc. Prizes range from free services to $1,000–2,000</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Judges for pitch competition</entry>
+<entry valign="top" align="left">Five to fifteen minutes depending on venue/rules</entry>
+<entry valign="top" align="left">Varies from basic verbal to deck of one to eight slides, ending with a “call to action”; might require capital needs</entry>
+<entry valign="top" align="left">Presentation that may include slides and/or video as specified in competition rules</entry>
+<entry valign="top" align="left">These are very common and help the entrepreneur refine the pitch</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Early Investors</entry>
+<entry valign="top" align="left">Ten to twenty minutes, depending on venue/rules</entry>
+<entry valign="top" align="left">Standup presentation with slides and video or demo of product/service</entry>
+<entry valign="top" align="left">Presentation that may include slides and/or video; more formal than pitch competitions with a specific “ask” for capital needs and use</entry>
+<entry valign="top" align="left">Very common with angel investors; often the deck is required to be sent before the event</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Employees</entry>
+<entry valign="top" align="left">Ten to twenty minutes</entry>
+<entry valign="top" align="left">Standup presentation with slides and video or demo of product/service</entry>
+<entry valign="top" align="left">Major outcome is to inform and inspire; this can be a recurring event and should be informal</entry>
+<entry valign="top" align="left">Very common in startups; usually monthly until company is profitable</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Trade groups/associations</entry>
+<entry valign="top" align="left">Ten to twenty minutes</entry>
+<entry valign="top" align="left">Standup presentation with slides and video or demo of product/service; may be tailored to the specific group</entry>
+<entry valign="top" align="left">Major outcome is to inform and connect to other key groups (investors, customers, etc.)</entry>
+<entry valign="top" align="left">Very common at trade conferences; some have their own pitch competitions</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Grant-making agencies (such as NIH, NSF)</entry>
+<entry valign="top" align="left">Ten to twenty minutes if in person but usually embedded in grant application</entry>
+<entry valign="top" align="left">Usually written but can lead to face-to-face meeting, depending on agency rules</entry>
+<entry valign="top" align="left">Outcome is to get “scored” to gain grant funding; if not awarded, company can reapply in the next grant cycle</entry>
+<entry valign="top" align="left">Grants are often technical and usually awarded for research and cannot be used for any commercial activities</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section id="fs-idm253199552">
+<title>Pitch Audiences</title>
+<para id="fs-idm209694352">No matter to whom you are pitching, you usually need to include references to your problem-solution statement, value proposition, and key features, and how you prioritize that information will change for different audiences. As shown in <link target-id="fs-idm524481632"/>, once those core sections are covered, your different presentations should be tailored for different ultimate “asks.” The <term>ask</term> in a pitch is the specific amount of money, type of assistance you request, or outcome you are seeking.</para>
+<section id="fs-idm246624976">
+<title>Investors</title>
+<para id="fs-idm209714832">You have been introduced to different types of investors and will learn about them in more depth in <link document="m71154">Entrepreneurial Finance and Accounting</link>. For now, you just need to know the different types so you can start to think about how entrepreneurs structure their pitches to them. <term class="no-emphasis">Individual investors</term> want to know about team, product, value proposition, and potential return on investment. <term class="no-emphasis">Angel investors</term> are individuals who use their own money to invest in companies they’re interested in. <term class="no-emphasis">Venture capitalists</term> are investors who pool money from others and use that money to invest in companies.</para>
+<para id="fs-idm240835216">Pitching to many potential investors without success can be time consuming and disheartening, but in most cases, the investor’s time is worth more than that of the people giving the pitch. If an investor offers feedback, it must be considered. You will probably not get all of the answers you need regarding how to make your venture an immediate success after giving a few pitches to individual investors and pitch competition judges, but if they take the time to offer a constructive critique, consider the pitch development and performance feedback a valuable experience.</para>
+<note id="fs-idm216928240" class="link-to-learning">
+<para id="fs-idm253223152">David S. <term class="no-emphasis">Rose</term> is the author of Angel Investing. Watch <link url="https://openstax.org/l/52TEDRose">David Rose’s TED Talk</link> where he offers advice about how to pitch venture capitalists.</para>
+</note>
+</section>
+<section id="fs-idm274681696">
+<title>Friends and Family</title>
+<para id="fs-idm268095360">Imagine asking friends and family for money to keep your startup going after you have maxed out your credit cards and secured a small business loan only to build a prototype and realize you do not have enough funds to get it to market. A common entrepreneurial journey starts with this sort of self-funded effort. Between 50 percent and 70 percent of startup companies in United States self-fund (savings, credit cards, or friends and family) their initial capital needs.<footnote id="fs-idm217762192">Laura Entis. “Where Startup Funding Really Comes From (Infographic).” <emphasis effect="italics">Entrepreneur.</emphasis> November 20, 2013. https://www.entrepreneur.com/article/230011</footnote><sup>,</sup><footnote id="fs-idm524862544">Meredith Wood. “Raising Capital for Startups: 8 Statistics That Will Surprise You.” <emphasis effect="italics">Fundera</emphasis>. October 23, 2019. https://www.fundera.com/resources/startup-funding-statistics</footnote> In one sense, you may be perceived as being more trustworthy with so much riding on the endeavor. Still, you would frame your pitch differently when going to friends and family than you would if preparing for an investor. You would probably make the tone less formal. You would focus on the value proposition and the immediate outcomes of the loan. You would point out tangible deliverables or milestones that this money would help you attain, and you would need to draw a roadmap from this contribution to likely, not just hoped for, revenues if you were to give yourself the best shot at raising money. Asking friends and family for, say, $10,000 might be more stressful to an individual than to ask an investor for ten times that amount. Your friends and family may want to invest in you, but they will also want to make their decision with a tangible narrative in mind. You want to build this narrative so that they can say: “I gave my family member X, so that they can finish building Y, to earn revenues of Z and continue forward with their innovation.”</para>
+</section>
+<section id="fs-idm238971712">
+<title>Potential Employees</title>
+<para id="fs-idm217672432">Entrepreneurs also pitch to potential employees by focusing on why they are needed to help the team create something innovative and valuable. Once a product is under development, you must pitch to vendors. Prepare to explain the value proposition and key features in detail and explain how the vendor shares in revenues, such as options about accepting equity in part or in lieu of cash payments for services.</para>
+<para id="fs-idm218128768">Entrepreneurs might also pitch to each other in hopes of building teams. Since most entrepreneurs are familiar with the structure of the pitch, you might be able to streamline proposals and simply state the value proposition and the ask. You will want to mention your team. The level of detail you share about who is working with you and what their contributions will be depends on the level of interest of the potential collaborator or investor. Future employees will likely want to know who they will be working with. Family and friends may not need to know the employment history of team members, but they, like other investors, will expect to know that there is a team capable of continuing to develop the product.</para>
+</section>
+<section id="fs-idm223550368">
+<title>Other Audiences</title>
+<para id="fs-idm272180704">Other types of audiences, which you can read more about in the <link document="m71181">Building Networks and Foundations</link> chapter, include quasi-governmental bodies, individual investors, incubators, trade groups, and competition judges. (Pitch competitions are discussed at length in <link document="m71142">Reality Check: Contests and Competitions</link>.) Understand that governments usually care most about creating jobs or retaining jobs in their communities. Advanced competitions and larger investment firms will want to see concrete numbers demonstrating product viability, market relevance, and previous growth. In other words, they will expect to see more details, and they will usually communicate ahead of time their specific interests. That being said, you must network and investigate which elements of your pitch to prioritize based on individual investor or investment firm preferences.</para>
+</section>
+</section>
+<section id="fs-idm219196112">
+<title>Pitch Goals</title>
+<para id="fs-idm274912256">Planning a pitch means researching region, potential investors, and current competitors working in the same or similar marketplaces. A good pitch explains not only what makes the product or service good but what makes a market good. Research markets in addition to the individual investors you would like to target. Angel investors are hard to find, but markets can be thoroughly dissected. Marc <term class="no-emphasis">Andreessen</term>, cofounder of <term class="no-emphasis">Andreessen Horowitz</term>, one of the most successful Silicon Valley venture capital firms in existence, once wrote, “In a great market—a market with lots of real potential customers—the market <emphasis effect="italics">pulls</emphasis> product out of the startup.”<footnote id="fs-idm538002304">Marc Andreessen. “Part 4: The Only Thing That Matters.” <emphasis effect="italics">The PMARCA Guide to Startups</emphasis>. June 25, 2007. https://pmarchive.com/guide_to_startups_part4.html</footnote> This is presented as an answer to a question Andreessen posed to himself: “What correlates the most to success—<emphasis effect="italics">team</emphasis>, <emphasis effect="italics">product</emphasis>, or <emphasis effect="italics">market</emphasis>?” He set up this question as a rhetorical tool to teach entrepreneurs that without a market, you do not have a product no matter how hard you work or how genius your team is. Investors specialize: Find investors in the right geographic location and find investors who know the market sector. Your goal should be to find mentors who can explain markets to you in significant, accurate ways. If you find a fertile marketplace, you can practice customer development, and learn and iterate your way to success.</para>
+</section>
+<section id="fs-idm275618736">
+<title>Key Elements of the Pitch</title>
+<para id="fs-idm270542192">A pitch is usually presented through what is called a <term>pitch deck</term>, alternately called a <emphasis effect="italics">slide deck</emphasis>. This is a slide presentation that you create using a program such as PowerPoint, Prezi, Keynote, or Google Slides that gives a quick overview of your product and what you’re asking for. As such, a pitch is designed to be clear, concise, and compelling, and should include the key areas shown in <link target-id="OSX_Eship_07_03_Pitch"/>.</para>
+<figure id="OSX_Eship_07_03_Pitch" class="scaled-down">
+<media id="fs-idm250366976" alt="A pitch presents a brand identity, problem-solution narrative, key features and value proposition, product-market fit, competitive analysis, and financial projections.">
+<image mime-type="image/jpeg" src="../../media/OSX_Eship_07_03_Pitch.jpg"/>
+</media>
+<caption>Key elements of pitch include identifying the need, the market opportunity, an innovative solution, how the venture will be managed, what funding is needed, and how risks will be mitigated. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="fs-idm260660368">Here are six key elements of an entrepreneurial pitch from <emphasis effect="italics">Media Innovation and Entrepreneurship</emphasis>.<footnote id="fs-idm253306448">Mark Poepsel. “Pitching Ideas.” <emphasis effect="italics">Media Innovation and Entrepreneurship.</emphasis> (Montreal: Rebus Community, Fall 2018). https://press.rebus.community/media-innovation-and-entrepreneurship/chapter/pitching-ideas/. This material is based on original work by Mark Poepsel, and produced with support from the Rebus Community. The original is freely available under the terms of the CC BY 4.0 license at https://press.rebus.community/media-innovation-and-entrepreneurship/.</footnote>
+<list id="fs-idm270720800" list-type="bulleted">
+<item>Element 1: Brand identity image and tagline. Your presentation slide deck should begin with a memorable <term class="no-emphasis">brand image</term>. It can be a logo representing your product in a stylized way, or it could be a screen grab of your product wireframe (a computer rendering if it is a product, and a schematic or flow chart if it is a software/service business model. The <link document="m71148">Entrepreneurial Marketing and Sales</link> chapter covers these concepts in detail.</item>
+<item>Element 2: Problem-solution narrative. Some entrepreneurial ideas solve common problems. Some solve problems that users didn’t know they had. Communicate the problem-solution narrative succinctly. Incorporate visuals and a “hook” (skit, emotional testimonial, deep question, etc.) to connect directly with the audience. An effective technique when addressing a generally common problem is to ask the question while raising your hand to prompt the audience: “How many of you have experienced this issue/problem/challenge recently?”</item>
+<item>Element 3: Key features and your value proposition. Your pitch can introduce potential investors, collaborators, employees, and others to your key features, your value proposition, and your user interface at the same time. Consider using a mockup of your product or images of a prototype to show your design capabilities while at the same time pointing out key features building to a value proposition. Or if you are a service or nonprofit venture, explain what you plan to provide to individuals or the community.</item>
+<item>Element 4: Product-market fit description. Define the market niche clearly and explain how your innovation serves the market purpose precisely. Not every problem is one people would pay to fix. Explain why there’s a market to overcome this problem, how sizeable it is, and why your value proposition is the best. The chapter on <link document="m71135">Identifying Entrepreneurial Opportunity</link> can help you hone in on this section and put your idea into words.</item>
+<item>Element 5: Competitive analysis. Demonstrate that your product is unique by defining its competition and illustrating how it will stand out in the marketplace. Investors will pay close attention to any missed or omitted competitors. They will want to see that you can establish barriers to entry, lest some immediate copycat eat up market share. The <link document="m71148">Entrepreneurial Marketing and Sales</link> chapter covers these concepts as well.</item>
+<item>Element 6: Financial projections. The <term class="no-emphasis">business model canvas (BMC)</term> can help you understand and be able to visualize how your value proposition sits at the center of two dynamics: input and output cycles. This is covered in <link document="m71176">Business Model and Plan</link>, but just know that you must pay for inputs and overhead, and that revenues from outputs, sooner rather than later, ought to catch up to initial expenses. Show what the overall market is worth: How big is this pie? Then, show how big your slice and your investor slice is going to be. The <link document="m71154">Entrepreneurial Finance and Accounting</link> chapter gets into these issues in more depth. In many cases, you will want to end with a description of your team, demonstrating quickly why you are up to the task of growing this innovation. As mapped out here, this could be the basic framework for your pitch deck for a short competition. Some elements can be communicated in a single slide. Some will take more than one. Flesh out your essential pitch decks with further specifics or with data requested by competition organizers for longer contests. It is suggested that you keep your core deck to no more than ten slides and that you practice a two-minute version that covers all six of these concepts in case you meet an angel investor on the street.</item>
+</list></para>
+<para id="fs-idm262279792">If you have followed this discussion, you have established a vision for your innovation and the company you want to build around it. You have established a mission and identified a clear purpose for it. You should have a keen sense of your entrepreneurial story, but if you cannot express these things in a way that makes other people see the value, your innovation may not survive. You don’t build pitch decks solely for the purpose of asking for money or support. That may be the primary objective, but when you work on your pitch, you build the narrative case again and again for why your idea has value and why other people should buy into your vision.</para>
+</section>
+<section id="fs-idm253363648">
+<title>The Pitch Deck</title>
+<para id="fs-idm263103472">As you can see, the primary means entrepreneurs have of sharing their vision is the pitch deck. Usually ten to twenty slides can explain your company, its goals, and key information to persuade an audience to take action (usually investors to consider investing in the enterprise). Pitch presentations should be visual and engaging. They should be easy to edit and rearrange, and should engage viewers with art, panache, and reasonable appeals. In general, they communicate the inspiration behind the innovation, its future capabilities, and the strengths of the team. Incorporate as many visuals as you need and make sure the visuals match the script.</para>
+<para id="fs-idm257213936">As an entrepreneur, you will be judged on your ability to develop and deliver a pitch. It can be taken as shorthand for your ability to research a marketplace, guide a team, and manage a product. Sharing your vision using slideshow software is not easy. Viewers are not impressed by status quo pitch presentations, but critical audiences will also quickly notice when a pitch is all flash and lacks a good value proposition. A strong pitch, content-wise, can be noticed, even if the slide design is less than stellar. In other words, developing a great-looking pitch deck is important, but there has to be substantial content.</para>
+<note id="fs-idm260633216" class="link-to-learning">
+<para id="fs-idm254687312">Explore a <link url="https://openstax.org/l/52PitchDeck">variety of foundational pitch decks</link> and learn what worked and didn’t with each.</para>
+</note>
+<para id="fs-idm273203280">Let’s use the slide deck from <term class="no-emphasis">Airbnb</term> as an example. It was presented after the company grew from its initial seed funding stage into a viable operation with high hopes for future revenue growth. That is, they were already established and making money when this deck was in use. It was presented after the initial investment stage, when the company had done a good deal of customer development.</para>
+<para id="fs-idm248581680">The track record is always in question when small firms go asking for big money, so note how Airbnb describes its previous success and potential for future growth. When funded, AirBed&amp;Breakfast would change its name and grow it into a global brand. This relatively straightforward deck from 2008–2009 is a popular example because of its simplicity and its powerful value proposition, although some experts note that the design could be better.<footnote id="fs-idm265923216">“Airbnb Pitch Deck.” <emphasis effect="italics">Slidebean</emphasis>. 2009. https://slidebean.com/blog/startups/airbnb-pitch-deck</footnote> Nevertheless, this was a successful <term class="no-emphasis">pitch deck</term>.</para>
+<para id="fs-idm250888752">Visit https://press.rebus.community/media-innovation-and-entrepreneurship/chapter/pitching-ideas/ to see a SlideShare page containing the following ten slides and two more add-ons from SlideShare. The description of this pitch deck comes from <emphasis effect="italics">Media Innovation and Entrepreneurship</emphasis>.<footnote id="fs-idm227061904">This material is based on original work by Mark Poepsel, and produced with support from the Rebus Community. The original is freely available under the terms of the CC BY 4.0 license at https://press.rebus.community/media-innovation-and-entrepreneurship/.</footnote></para>
+<list id="fs-idm240579600" list-type="bulleted">
+<item>Slide 1: Airbnb started out as “AirBed&amp;Breakfast.” Brand identity is established with a sans-serif typeface, use of color, and a clear tagline: “Book rooms with locals, rather than hotels.”</item>
+<item>Slide 2: The problem statement is straightforward: Travelers need an affordable alternative to hotels.</item>
+<item>Slide 3: The solution statement focuses on the nature of the product, that is, that it’s a web platform, and on key features and how they create value, both financial and cultural capital. Note that key features and the value proposition are already addressed through three simple slides.</item>
+<item>Slide 4: To establish product-market fit, you first have to have a market. The Airbnb pitch deck notes that at the time there were 630,000 users on <term class="no-emphasis">couchsurfing.com</term> and that there were 17,000 temporary housing listings on <term class="no-emphasis">Craigslist</term> in San Francisco and New York combined in one week. Thus, there existed a large potential traveler pool and a large pool of people with rooms for lease, but these groups were in need of a unified platform.</item>
+<item>Slide 5: The fifth slide details the size of the market and Airbnb’s share, showing potential for growth.</item>
+<item>Slide 6: Completing the case for product-market fit, this slide shows the attractive user interface and provides a mini-narrative for how the product works.</item>
+<item>Slide 7: This slide shows four years’ of revenue totals as simple math: 10 million + trips × $20 average fee = about $200 million in revenue. This is evidence of product-market fit and whets the investor’s appetite for potential future earnings.</item>
+<item>Slide 8: This slide shows how Airbnb has already beaten its competition to own the market for certain events and create partnerships.</item>
+<item>Slide 9: Here, investors get the full picture of the competition.</item>
+<item>Slide 10: The financial expectations are pretty well established by this point and were explained verbally. What this shows are the barriers to competition expected to help preserve Airbnb’s position, future earnings, and growth expectations.</item>
+</list>
+<para id="fs-idm251355728">Consider what was involved in creating this Airbnb slide deck. The deck is not particularly complicated. AirBed&amp;Breakfast, as it was called at the time, was a market leader in a niche that other companies had previously tried to exploit. The company’s rapid growth was not a guarantee, but this offer was too good for investors to pass up, although at the seed funding stage, some investors did not see the potential in a service that helps people sleep in others’ private residences.<footnote id="fs-idm249230000">Alice Truong. “The Investors Who Passed on Airbnb’s Seed Funding Had Their Reasons.” <emphasis effect="italics">Quartz</emphasis>. July 13, 2015. https://qz.com/452384/the-investors-who-passed-on-airbnbs-seed-funding-had-their-reasons/</footnote> By the point this deck was in use, the company had gotten past initial concerns about safety and viability, and was ready to grow quite quickly. A 2018 check shows Airbnb has secured funding through six rounds from a variety of major investors.<footnote id="fs-idm239847648">“Airbnb Investors.” <emphasis effect="italics">Crunchbase</emphasis>. n.d. https://www.crunchbase.com/organization/airbnb/investors/investors_list#section-investors</footnote></para>
+<para id="fs-idm256575824">As we have seen, pitch decks and pitches are developed and delivered for various reasons, to various audiences, with varying content. For example, you may prepare pitches to pursue different long-term visions for your product. Or, if you do not secure seed funding, you might scale back your idea, adjust your vision, and rework your pitch. What remains the same is the need to convey how you will bring value to users or customers, and demonstrate the core pitch elements, adjusted for each altered outlook.</para>
+</section>
+<section id="fs-idm274855136">
+<title>Elevator Pitches</title>
+<para id="fs-idm256360000">After looking at an exemplary pitch deck adapted by a niche market leader between seed funding and the venture capital quest, it may seem difficult to inspire investors via a one- or two-minute elevator speech for a project under development, but preparing for this type of pitch is essential. An <term>elevator pitch</term> is an abbreviated pitch, a memorized talk that can get you in the door to put your full pitch deck on display. The elevator pitch should touch on the key elements of problem-solution, value proposition, product-market fit, and team, and not much else.</para>
+<para id="fs-idm272952560">Giving an elevator pitch is an art. The elevator pitch can be memorized and should be. It might be delivered informally at networking events or at dinner parties or other social engagements. You never know when you might need to give an elevator speech. You might find yourself talking to someone who’d be interested in your venture, and it might be at a golf outing, on the ski slopes, on the street, in a store, or, yes, in a giant investment firm’s lobby as a courtesy, as in <emphasis effect="italics">The Big Short</emphasis>. And of course, in elevators. That’s why it should be memorized and up to date.</para>
+<para id="fs-idm542746608">The classic example of a good elevator pitch is the one job candidates give that lands them an entry level job in a company for they have always dreamed of working. Adapted from an article in <emphasis effect="italics">Forbes</emphasis>,<footnote id="fs-idm255232752">Nancy Collamer. “The Perfect Elevator Pitch to Land a Job.” <emphasis effect="italics">Forbes.</emphasis> February 4, 2013. https://www.forbes.com/sites/nextavenue/2013/02/04/the-perfect-elevator-pitch-to-land-a-job/#7843035b1b1d</footnote> there are six elements of a good job-seeking elevator pitch. First, the pitch must be targeted. It cannot sound as though just any job will do. You need to pitch yourself for the specific role the employer is trying to fill. It helps, second, to write your pitch down in order to edit it and perfect it. Third, it should be correctly formatted and, fourth, focused on the <emphasis effect="italics">company</emphasis> where you hope to work rather than on <emphasis effect="italics">yourself</emphasis>. Explain how you understand what they are hiring for and let that be the setup to a story that ends with you being the best person to fit their needs. Fifth, clear away the buzzwords and corporate-speak, and, finally, practice performing your pitch aloud. Elevator speeches, after all, are given in person.</para>
+<note id="fs-idm543432544" class="link-to-learning">
+<para id="fs-idm230889664">NPR’s podcast <emphasis effect="italics">How I Built This</emphasis> is a compelling collection of first-person accounts by entrepreneurs on all kinds of issues relating to their startups. This <link url="https://openstax.org/l/52NPRBlakely">episode of “How I Built This” is about Sara Blakely and her elevator pitch for Spanx</link> that turned into a bathroom pitch, and how she seized the moment for success.</para></note>
+<para id="fs-idm240267888">However, a personal pitch is a relatively simple and straightforward task. If you’re asked to write an elevator pitch for your proposed venture, start with about three sentences, or a 280-character Tweet. Write it first as a set of talking points so that you don’t get hung up on trying to present the exact words in the exact order. Make your elevator speech broad enough that any member of your team could deliver it and any potential investor could comprehend it in passing. Delivering an elevator speech is a linear process, meaning a person can’t be expected to read back or probe for more information the way they might with a written presentation or in a formal pitch presentation with time for follow-up questions. Be sure to bring business cards and keep your smartphone charged and ready for the exchange of contact information, a sign that you have succeeded in this first step.</para>
+<note id="fs-idm355952576" class="work-it-out">
+<title>Developing and Practicing an Elevator Pitch</title>
+<para id="fs-idm361203040">Part of the idea of an elevator pitch is that you never know when opportunity will strike: when might you have thirty seconds on an elevator with someone interested in supporting your business idea? That’s why thinking through the pitch—including practicing it and getting feedback—can be so valuable.</para>
+<list id="fs-idm345760272" list-type="bulleted">
+<item>Gather a group of 2–3 classmates or entrepreneurially minded friends.</item>
+<item>Have each person spend a few minutes planning a 30-second elevator pitch.</item>
+<item>Take turns pitching your ideas. Take notes on others’ presentations.</item>
+<item>Take turns providing feedback on the pitches. Feedback should focus less on the business idea and more on the <emphasis effect="italics">presentation</emphasis> of the idea.</item>
+</list>
+</note>
+</section>
+<section id="fs-idm253189200" class="section-summary">
+<title>Summary</title>
+<para id="fs-idm248804816">A pitch is a request for support, either financial investment or some kind of support. A great pitch takes into account the intended audience and the goal of the talk, and prioritizes information accordingly. In other words, it answers the questions Who? (Who are we pitching?), What? (What are we pitching to them?), and Why? (Why are we pitching: What is the “ask”?). Once you establish these elements, you need to develop a professional pitch deck and include engaging materials that share your passion and communicate your vision. Your pitch should paint a picture of a successful product or service delivering strong returns for investors or for those who choose to work for you or do business with you.</para>
+<para id="fs-idm535277168">This section offered an outline of elements for a professional pitch deck and provided a few details about what ought to be included. Pitches may vary in length and should take into consideration the demands of contest rules and the quirks of potential investors. That said, there are elements that almost every pitch needs to include, and they are presented in the approximate order in which they might appear in your pitch deck. In general, you should cover all elements of the pitch as outlined here, but the level of detail may vary based on the audience. The entrepreneur should ask the key contact what specific area(s) she should cover so as to make the best impact.</para>
+<para id="fs-idm216876560">We also discussed crafting different pitches with different senses of vision in mind, which can be particularly helpful post-pivot when an organization has a product but needs to adjust it to target new markets. Finally, we looked at the elevator pitch, which is miniature version of your more complete professional pitch and an introduction to your vision. The pitch before the pitch, if you will, should be clear, concise, and catchy—enough to get an investor’s attention without driving them to hop off the elevator.</para>
+</section>
+<section id="fs-idm253474848" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idm250903248">
+<problem id="fs-idm242010352">
+<para id="fs-idm263653584">Pitches have different purposes, depending on the target audience. The constant in every pitch is that it ________.</para>
+<list id="fs-idm259473456" list-type="enumerated" number-style="upper-alpha">
+<item>must be short</item>
+<item>makes a request for support</item>
+<item>includes six elements and about ten slides</item>
+<item>is derived from a corporate narrative</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm269275280">
+<problem id="fs-idm259317328">
+<para id="fs-idm258876464">An abbreviated pitch that you memorize is called an elevator pitch. Meant to be given in person, it should be ________.</para>
+<list id="fs-idm251385392" list-type="enumerated" number-style="upper-alpha">
+<item>brief</item>
+<item>memorized</item>
+<item>connected to a request for more time to make a more complete pitch</item>
+<item>All of these options are correct.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm542337088">
+<problem id="fs-idm255779888">
+<para id="fs-idm245300768">A graphic worksheet that sets forth the value proposition of any startup and allows you to identify stakeholders, and key inputs and outputs is the ________.</para>
+<list id="fs-idm240122240" list-type="enumerated" number-style="upper-alpha">
+<item>business model generator</item>
+<item>business model canvas</item>
+<item>business mobility canvas</item>
+<item>business meditation and creativity matrix</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm274930976" class="discussion-questions">
+<title>Discussion Questions</title>
+<exercise id="fs-idm523883888">
+<problem id="fs-idm248950400">
+<para id="fs-idm525077920">What would it take to rework a pitch deck created for a campus competition and present it to an individual angel investor?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm532558864">
+<problem id="fs-idm531648096">
+<para id="fs-idm215943248">In what ways is an elevator pitch an abbreviation of a longer professional pitch? In what ways does it differ?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm222263056">
+<problem id="fs-idm223054000">
+<para id="fs-idm269449104">Reflect on the Airbnb pitch deck. What would the elevator pitch version of that presentation sound like? What would the ask be for the new elevator pitch?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm238128176" class="case-questions">
+<title>Case Questions</title>
+<exercise id="fs-idm262174368">
+<problem id="fs-idm537156496">
+<para id="fs-idm225174960">Design plays a major role in how investors and other audiences respond to your pitch deck, but for one startup, achieving near perfection in their slide design did not create a pathway to success. Wattage Inc. was pitched as a modular electronics company that would allow users to design their own electronic equipment from modular parts, add art and other customized pieces, and have it shipped directly to them. To take a massive market—consumer electronics—and add a customization element was incredibly ambitious. The deck made for an aesthetically pleasing failure.<footnote id="fs-idm241130480">Jeremy Bell. “Well, We Failed.” <emphasis effect="italics">Medium</emphasis>. May 5, 2017. https://medium.com/inside-wattage/well-we-failed-77e795e16ecf</footnote> Potential investors would not open their checkbooks, but would smile and suggest that these guys could always go into business making pitch decks for other startups.<footnote id="fs-idm238769664">Taylor Lorenz. “Everybody Kept Telling This Startup That Its Pitch Deck Was Beautiful—But They Didn’t Invest.” <emphasis effect="italics">Business Insider.</emphasis> May 12, 2015. http://www.businessinsider.com/wattage-pitch-deck-couldnt-save-startup-from-failure-2015-5</footnote> The innovation that promised to make us all inventors failed, at least for now, but it can teach us many lessons about developing pitches. View <link url="https://openstax.org/l/52WattPitchDeck">Wattage’s pitch deck</link> to learn more.</para>
+<list id="fs-idm272497872" list-type="enumerated" number-style="upper-alpha">
+<item>Can great design <emphasis effect="italics">hurt</emphasis> a pitch presentation? How, or if no, why not?</item>
+<item>What do you think was missing if investors loved the pitch deck, appreciated the tactile prototypes, and yet decided not to invest?</item>
+<item>There is a “go-big-or-go-home” sentiment to this kind of startup that tries to shake up a massive marketplace. After visiting these links and reviewing what Wattage Inc. was trying to build, could you come up with a scaled-down or more focused version of the concept that might work? One issue with this type of startup is that it can only target very large investors. How might you build different pitch decks targeting different types of investors (electronics investors, those who invest in value-added customization products, modular tech enthusiasts, and so on)?</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm234248896" class="suggested-resources">
+<title>Suggested Resources</title>
+<para id="fs-idm230504928">Pitch deck templates: https://articles.bplans.com/what-to-include-in-your-pitch-deck/ and https://www.forbes.com/sites/allbusiness/2017/03/04/how-to-create-a-great-investor-pitch-deck-for-startups-seeking-financing/#4bbce7c2003e and https://www.startupgrind.com/blog/the-quick-and-dirty-guide-to-creating-a-winning-pitch-deck/</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm271618544">
+<term>ask</term>
+<meaning id="fs-idm238909312">specific amount of money or type of assistance requested in a pitch</meaning>
+</definition>
+<definition id="fs-idm260888160">
+<term>elevator pitch</term>
+<meaning id="fs-idm272158368">abbreviated pitch, a memorized talk that can get you into the door to put your full pitch deck on display</meaning>
+</definition>
+<definition id="fs-idm525277280">
+<term>pitch deck</term>
+<meaning id="fs-idm249378352">slide presentation that you create that gives a quick overview of your product and what you’re asking for</meaning>
+</definition>
+</glossary>
+</document>

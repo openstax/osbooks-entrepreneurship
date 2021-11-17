@@ -1,0 +1,102 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Limited Liability Companies</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m80301</md:content-id>
+  <md:title>Limited Liability Companies</md:title>
+  <md:abstract/>
+  <md:uuid>afc1cfce-7f9a-4a8b-b985-33d60a0d3bd1</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-idm284841376" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-idm294741120">By the end of this section, you will be able to:</para>
+<list id="fs-idm509643232" list-type="bulleted">
+<item>Describe the ownership structure of a limited liability company</item>
+<item>Explain how limited liability companies are taxed</item>
+<item>Summarize the advantages and disadvantages of the limited liability company structure</item>
+</list>
+</section>
+<para id="fs-idm230679008">A <term>limited liability company</term> is a hybrid of a corporation and a partnership that limits the owner’s liability. The big advantage that LLCs have over GPs is in the protection of owners from personal liability. Thus, an LLC is similar to a corporation in that it offers owners <term class="no-emphasis">limited liability</term>.</para>
+<para id="fs-idm292112384">The advantage that LLCs have when compared to corporations, especially for entrepreneurs, is that they are easier to form and less cumbersome to operate because there are fewer regulations and laws governing LLC operations. Although LLCs tend to be easier to create, they still require a filing of <term class="no-emphasis">articles of formation</term> with the state and the creation of an operating agreement. Owners of an LLC can be individuals and other business entities. The entrepreneur can use the flexibility of an LLC to create a business structure suitable to the operational and tax needs of the business.</para>
+<para id="fs-idm206868512">In 1977, Wyoming was the first state to allow the LLC format—most states started allowing them in the early 1990s. In contrast, corporations have been around since the early nineteenth century. LLCs now significantly outnumber corporations, with some estimates indicating that four times as many LLCs are formed as corporations,<footnote id="fs-idm202189936">Scott A. Hodge. “The U.S. Has More Individually Owned Businesses Than Corporations.” <emphasis effect="italics">Tax Foundation</emphasis>. January 13, 2014. https://taxfoundation.org/us-has-more-individually-owned-businesses-corporations/</footnote> with the total number of LLCs nearing 20 million compared to about 2 million corporations. Each state may permit varying types of LLCs, with different types of formation agreements and operating agreements.</para>
+<para id="fs-idm205305200">When evaluating the use of an LLC as the structure for your business, it is important to know that there are some constraints on the use of an LLC. In most states, a nonprofit business cannot be an LLC. Additionally, most states do not permit banks or insurance companies to operate as LLCs.</para>
+<section id="fs-idm507635040">
+<title>Overview of LLCs</title>
+<para id="fs-idm182228400">The owners of an LLC are called <term class="no-emphasis">members</term>. The owner (if a single-member LLC) or owners often run the company themselves. These are called <term class="no-emphasis">member-managed LLCs</term>. The daily operations of the LLC can also be delegated to a professional manager, which is called a manager-managed LLC. If the original organizer of the LLC chooses, they can organize an LLC in which the owners (members) will have little or no management responsibility because it has been delegated to a professional manager. These options when drafting an LLC’s operating agreement allow an LLC to operate in different ways, so that an entrepreneur can develop a business structure best suited to the needs of the business.</para>
+<para id="fs-idm204881536">As long as the members (owners) do not use the LLC as an alter ego and/or <term class="no-emphasis">commingle</term> personal funds with LLC funds, the LLC provides the corporate shield of limited liability to the investors. If the LLC is operated to protect a sole proprietor, this might become an issue if the sole proprietor commingles funds. Commingling funds or assets gives rise to the sole proprietor or other members of a multi-owner LLC being liable for all of the debts of the LLC. Generally, the ownership of an LLC is represented by percentages or units. The term <emphasis effect="italics">shares</emphasis> is not used in operating agreements because LLCs cannot sell shares of stock like a corporation can; thus, owners are not technically shareholders.</para>
+</section>
+<section id="fs-idm188266256">
+<title>Taxation of LLCs</title>
+<para id="fs-idm303465920">Entrepreneurs are able to make decisions regarding the taxation of LLCs. The government can tax the business as a corporation or as an individual. This choice may involve more than simply a tax rate decision; it might involve ownership and management issues, as well other financial considerations. However, this section will focus on the tax decision aspect of the issue.</para>
+<para id="fs-idm507231104">A multi-owner LLC’s default taxation is as a partnership, meaning profits pass through and are taxed on the owner’s federal tax return. However, LLCs can elect to be taxed as either a <term class="no-emphasis">partnership</term> or a <term class="no-emphasis">corporation</term>. Single-member LLCs can also be taxed as a <term class="no-emphasis">sole proprietorship</term> or as a corporation. The fact that an LLC can select its method of taxation as either a C corporation, S corporation, or partnership allows the entrepreneur flexibility in creating the business structure of their choosing. Note, however, that tax laws change. For example, the Tax Cuts and Jobs Act of 2017 may make formation as an S corporation more attractive to some entrepreneurs than formation as an LLC, at least as far as taxation is concerned. You should seek advice from a tax accountant to ensure that you are able to make decisions based on the most current regulations.</para>
+</section>
+<section id="fs-idm187616000" class="section-summary">
+<title>Summary</title>
+<para id="fs-idm218373408">LLCs have become, over the past twenty-five years, one of the most popular business entities for new startups. The phenomenal growth in LLCs is due to a straightforward equation: easy formation + easy operation + limited liability = popularity. LLCs offer entrepreneurs several qualities that they seem to like: They are low cost, low maintenance, protect the owner’s personal assets from liability, and offer flexible taxation choices.</para>
+</section>
+<section id="fs-idm190678912" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idm239781904">
+<problem id="fs-idm306494240">
+<para id="fs-idm251518112">Of all the business entity choices, LLCs are the most like ________.</para>
+<list id="fs-idm214379616" list-type="enumerated" number-style="upper-alpha">
+<item>S corporations</item>
+<item>C corporations</item>
+<item>sole proprietorships</item>
+<item>joint ventures</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm198066832">
+<problem id="fs-idm303574704">
+<para id="fs-idm299673168">LLC owners are called ________.</para>
+<list id="fs-idm200650784" list-type="enumerated" number-style="upper-alpha">
+<item>members</item>
+<item>shareholders</item>
+<item>limited equity investors</item>
+<item>directors</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm181342736">
+<problem id="fs-idm198001664">
+<para id="fs-idm285330032">LLCs offer flexible tax treatment, meaning ________.</para>
+<list id="fs-idm183228704" list-type="enumerated" number-style="upper-alpha">
+<item>they can be taxed like corporation</item>
+<item>they can be taxed like partnerships</item>
+<item>they can be taxed like proprietorships</item>
+<item>All choices are correct.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm220355632" class="discussion-questions">
+<title>Discussion Questions</title>
+<exercise id="fs-idm233776128">
+<problem id="fs-idm299080160">
+<para id="fs-idm301991440">Distinguish between LLC and LLPs.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm186443920" class="case-questions">
+<title>Case Questions</title>
+<exercise id="fs-idm233761216">
+<problem id="fs-idm240853344">
+<para id="fs-idm180913520">You are headed off to college. Some close family members decide it would be a good idea to buy a house in the college town and then rent it out to students, with you also living there and actively managing it. Assuming you and your family buy it, what form of business would you select?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm296289840" class="suggested-resources">
+<title>Suggested Resources</title>
+<para id="fs-idm223827312">The SBA has an excellent website for LLC owners. It has information about multiple topics including comparisons with other structures, and links to other websites that offer good advice: https://www.sba.gov/business-guide/launch-your-business/choose-business-structure</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm306442160">
+<term>limited liability company (LLC)</term>
+<meaning id="fs-idm295265616">hybrid of a corporation and a partnership that limits the owner’s liability</meaning>
+</definition>
+</glossary>
+</document>

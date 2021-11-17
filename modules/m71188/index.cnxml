@@ -1,0 +1,237 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Corporations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71188</md:content-id>
+  <md:title>Corporations</md:title>
+  <md:abstract/>
+  <md:uuid>69f756a3-fe09-49f0-88fa-74ac1ba52a58</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-idm321049024" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-idm342058816">By the end of this section, you will be able to:</para>
+<list id="fs-idm316986720" list-type="bulleted">
+<item>Distinguish between C Corporations, S Corporations, and B Corporations</item>
+<item>Distinguish between privately and publicly held corporations</item>
+<item>Explain how corporations are taxed</item>
+</list>
+</section>
+<para id="fs-idm343446064">A <term>corporation</term> is a complex business structure created by filing the appropriate documents with the <term class="no-emphasis">state of incorporation</term> (<link target-id="OSX_Eship_13_02_ArticleInc"/>). They are created when the original incorporators (owners) file a formal document called the <term class="no-emphasis">articles of incorporation</term>, or other similar documentation, with a state agency, often the secretary of state’s office or the state division of corporations. Corporations operate as a separate legal entity apart from the owners. The owners are called <term class="no-emphasis">shareholders</term> and can be individuals, other domestic or foreign corporations, LLCs, partnerships, and other legal entities. Corporations may be for-profit or not-for-profit, as discussed previously.</para>
+<figure id="OSX_Eship_13_02_ArticleInc" class="scaled-down">
+<media id="fs-idm349179424" alt="State of Incorporation form that states: “The undersigned Incorporator, desiring to form a corporation under pursuant to the General Corporation Law of the State of [State], hereby certifies as follows:” and leaves space for the incorporator to fill in the name of the corporation, the address (including the county) of the corporation, the name of the registered agent, the total amount of stock the corporation is authorized to issue and the price per share, and the name and mailing address of the incorporator. The form also states: “The purpose of the corporation is to engage in any lawful act or activity for which corporations may be organized under the General Corporation Law of [State].” The incorporator must also sign the form.">
+<image mime-type="image/jpeg" src="../../media/OSX_Eship_13_02_ArticleInc.jpg"/>
+</media>
+<caption>This is a sample short form of the document that is filed with the Secretary of State’s Office to form a corporation. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="fs-idm351853840">Incorporating a company means that the corporation operates as an entity that has some of the same rights as an individual. For example, individuals and corporations can sue and be sued, and corporations have the rights to own property, to enter into and enforce contracts, to make charitable and political donations, to borrow and lend money, and to operate a business as if the corporation were an individual. Most states require a corporation to be registered in that state in order to conduct business operations and to enter into and defend lawsuits in that state, especially if the business was incorporated in a different state. Registration is not the same as forming the initial corporation; it is simply the process of filing informational documents by entities that have already been incorporated in another state. States also tax the operations or sales a corporation makes in the state in which it has certain operations.</para>
+<section id="fs-idm350583360">
+<title>Overview of Corporations</title>
+<para id="fs-idm350591200">Corporations are the only type of entity that the law allows to sell shares of <term class="no-emphasis">stock</term>. No other entity, like an LLC or a partnership, may do so. Those individuals or other entities that buy stock become <term class="no-emphasis">shareholders</term> and own the corporation. Some corporations have millions of shareholders, and others have as few as one. State incorporation laws vary: Some require at least three shareholders, but others allow a one-owner business to incorporate. Thus, an entrepreneur may start a company as the sole owner of the company and later incorporate and sell shares of stock or bonds to other investors in the company.</para>
+<para id="fs-idm341870096">Corporations sell, or issue, stock to raise <term>capital</term>, or money, to operate their businesses. The holder of a share of stock (a shareholder) purchases a piece of the corporation and has a claim to a part of its assets and earnings. In other words, a shareholder is now an owner of the corporation. Thus, a share of stock (also called <term class="no-emphasis">equity</term>) is a type of security that signifies proportionate ownership in the issuing corporation. Stocks are bought and sold predominantly on stock exchanges, although there can also be a private sale between a seller and a buyer. These transactions have to conform to a very complex set of laws and government regulations (e.g., the Federal Securities Acts of 1933/34), which are meant to protect investors.</para>
+<para id="fs-idm321578528">Use of a corporation allows the entrepreneur to shield themselves, and other owners, from personal liability for most legal and financial obligations. The benefit of limited liability is one of the primary reasons entrepreneurs incorporate. However, the administration of a corporation requires more formality than other types of entities, such as sole proprietorships and partnerships. A corporation must follow the rules for such entities. The requirements include maintaining bylaws, holding annual shareholder and director meetings, keeping minutes of shareholder and director major decisions, ensuring that officers and directors sign documents in the name of the corporation, and importantly, maintain separate bank accounts from their owners and keep detailed financial and corporate records. A failure to follow the rules could lead to the loss of limited liability, known as “piercing the corporate veil.”</para>
+<note id="fs-idm329995712" class="work-it-out">
+<title>Piercing the Corporate Veil of Limited Liability</title>
+<para id="fs-idm350098800">As we have discussed, entrepreneurs should generally form a separate legal entity to limit personal liability arising from business obligations, such as contracts. Incorporating or organizing as an LLC can limit owners’ personal liability to the extent of their investments. This liability shield is not without exception, however: in particular, a situation called “<term class="no-emphasis">piercing the corporate veil</term>.” A recent 2018 case example (Woodruff Construction, LLC v. Clark, No. 17-1422 [Iowa Ct. App. Aug. 15, 2018]) demonstrates this point.</para>
+<para id="fs-idm619565744">Factual Overview: The defendant was the sole owner of a corporation and entered into a contract to remove sludge for the plaintiff at a waste treatment facility. The defendant never completed the work. The plaintiff sued and won a $400,000 judgment against the corporation for breach of contract. However, the plaintiff was not able to collect from the corporation due to insufficient assets. The plaintiff then asked the court to pierce the veil of the corporation, which would allow recovery from the corporate owner’s personal finances.</para>
+<para id="fs-idm349052640">Piercing the Veil: Evidence showed that although the defendant kept a separate bank account for the corporation, he had commingled its funds with his personal finances, which is a distinct violation of fiduciary duty. He used the bank accounts for the corporation interchangeably with other bank accounts. Furthermore, the defendant did not follow required corporate formalities because he had no bylaws or resolutions, no voting records, and no documentation of or minutes from shareholder meetings.</para>
+<para id="fs-idm320816752">Finding: The court allowed the plaintiff to pierce the corporate veil. This means that the defendant, the sole owner of the corporation, had to pay over $400,000 out of his personal funds. (Note: Although it is true that LLCs have fewer formal requirements, this case would likely have had the same result if the owner were an LLC because the rules are essentially the same for piercing the veil of limited liability.)</para>
+<para id="fs-idm334077152">Critical Thinking:</para>
+<list id="fs-idm330468208" list-type="bulleted">
+<item>How can you protect yourself from this happening to you?</item>
+</list>
+</note>
+<para id="fs-idm334863648">Most corporations use a three-part (or tripartite) approach to ownership and management (<link target-id="OSX_Eship_13_02_Corporate"/>). After the corporation is created and operations start, the shareholders typically elect a <term class="no-emphasis">board of directors</term>, and the board has oversight responsibilities for the operations of the company. The board then appoints <term class="no-emphasis">officers</term> who are responsible for the day-to-day operations of the corporation.</para>
+<figure id="OSX_Eship_13_02_Corporate" class="scaled-down">
+<media id="fs-idm332466384" alt="Cartoon with Tripartate Corporate Structure in a central circle. There is a partially overlapping circle at the top (Shareholders),another partially overlapping circle at the bottom right (Directors), and another partially overlapping circle at the bottom left (Officers).">
+<image mime-type="image/jpeg" src="../../media/OSX_Eship_13_02_Corporate.jpg"/>
+</media>
+<caption>In a tripartite approach, three groups are involved in owning and managing a corporation. Shareholders elect directors who appoint officers. Shareholders are owners, and directors/officers may be, and typically are, shareholders. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="fs-idm321921360">For small organizations, state law allows shareholders to directly manage a company without using a board of directors. This type of corporation is a <term class="no-emphasis">closed corporation</term> or a <term class="no-emphasis">closely held corporation</term>, and is common for entrepreneurial startups. State incorporation law, coupled with federal tax law under the IRS, regulates the formation and operation of a closely held corporation. The basic rules state that, generally, a closely held corporation is a corporation that has more than 50 percent of the value of its outstanding stock owned (directly or indirectly) by five or fewer individuals at any time during the last half of the tax year.<footnote id="fs-idm350103408">US Internal Revenue Service. <emphasis effect="italics">Publication 542 Corporations</emphasis>. n.d. https://www.irs.gov/faqs/small-business-self-employed-other-business/entities/entities-5</footnote></para>
+</section>
+<section id="fs-idm340534752">
+<title>C Corporations, S Corporations, and B Corporations</title>
+<para id="fs-idm332766192">The categorization of corporations as either C corporations or S corporations is largely a tax distinction. An <term>S corporation</term> is a “pass-through” entity, where shareholders report and claim the business’s profits as their own and pay personal income taxes on it. Alternatively, the government taxes a <term>C corporation</term> at the corporate level, and then levies taxes again on the owners’ personal income tax returns if corporate income is distributed to the shareholders as dividends.</para>
+<para id="fs-idm318782016">Conversely, the distinction between B corporations and C or S corporations is not one based on taxes at all, but rather on purpose and approach. A certified <term>B corporation</term> is a business that meets a very high standard of social and environmental performance, public transparency, and accountability to balance profit with social purpose. B corporations can also be C corporations or S corporations. <link target-id="OSX_Eship_13_02_CorpStruc"/> summarizes these types of corporations.</para>
+</section>
+<section id="fs-idm322348704">
+<title>The Unique Nature of B Corporations and/or Benefit Corporations</title>
+<para id="fs-idm317398944">A new form of nontraditional, for-profit corporation is the <term class="no-emphasis">benefit corporation</term>, which may or may not also be a B corporation. While <emphasis effect="italics">B corporations</emphasis> and <emphasis effect="italics">benefit corporations</emphasis> share some common goals, B corporations go through a certification process. Becoming a certified B corporation is a formal process that involves compliance with various standards and an audit of this compliance (managed by the B corporation organization).<footnote id="fs-idm339501216">Certified B Corporations. n.d. https://bcorporation.net/</footnote> The essence of these new B corporations is that “they recognize the imperative to do no harm and create positive impact throughout the value chain.”<footnote id="fs-idm342922896">Network for Business Innovation and Sustainability. “B Corporations, Benefit Corporations, and Social Purpose Corporations: Launching a New Era of Impact-Driven Companies.” October 2012. http://nbis.org/wp-content/uploads/2012/10/ImpactDrivenCompanies_NBIS_Whitepaper_Oct2012.pdf</footnote> According to the B corporation organization, these certified businesses are legally required to consider the impact of their decisions on their workers, customers, suppliers, community, and the environment. As of 2019, there are approximately 3,000 certified B corporations in sixty-five countries, covering 150 different industries.<footnote id="fs-idm296972480">Certified B Corporations. n.d. https://bcorporation.net/</footnote> The B corporation certification is somewhat like a seal of approval for businesses voluntarily trying to be socially responsible. A benefit corporation is a corporation recognized by a governmental agency under state law (about thirty states now recognize benefit corporations with legal requirements of higher purpose, accountability, and transparency) but does not carry the certification of a B corporation. However, in terms of purpose as related to corporate social responsibility, the two entities are very similar.</para>
+<para id="fs-idm360984128">The benefit corporation’s objective is directed toward maximization of benefits for all stakeholders, meaning that the company benefits any person with an interest or concern in the business. It does not only maximize stockholder profits. Maximization of stakeholder benefits is directed through the corporate charter of a benefit corporation. The state of incorporation directs how benefit corporations are created, but generally, this “new governance model broadens the perspective of traditional corporate law by incorporating concepts of purpose, accountability, and transparency with respect to all corporate stakeholders, not just stockholders.”<footnote id="fs-idm335536208">Morris, Nichols, Arsht, and Tunnel. <emphasis effect="italics">The Public Benefit Corporation Guidebook</emphasis>. n.d. http://news.mnat.com/rv/ff00272e4c8b3699806e25d24c48a286df5bf926</footnote> This means that the use of this type of business structure needs to be carefully considered by the entrepreneur because the responsibility of the business will include consideration of the stakeholders outlined in the corporate charter, not just the profit maximization for the shareholders.</para>
+<figure id="OSX_Eship_13_02_CorpStruc">
+<media id="fs-idm358072400" alt="Flow chart with Corporations at the top. A arrow points down to three different boxes: For-profit C corporation (taxed at entity level), For-profit S corporation (taxed at individual level), and For-profit B corporation (taxed as C- or S-corporation). A line also connects separately to a box labeled Not-for-profit (not taxed).">
+<image mime-type="image/jpeg" src="../../media/OSX_Eship_13_02_CorpStruc.jpg"/>
+</media>
+<caption>C corporations, S corporations, and B corporations are all types of for-profit corporations, in contrast to a not-for-profit corporation. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<note id="fs-idm333017792" class="are-you-ready">
+<title>B Corporation Certification</title>
+<para id="fs-idm318278096">The B corporation website explains the process for becoming a B corporation. This involves three specific steps: Verified Performance, Legal Accountability, and Public Transparency. Go to https://bcorporation.net/about-b-corps and read about B corporations to learn what requirements they need to meet to be allowed to display the following B corporation logo shown in <link target-id="OSX_Eship_13_02_BCorpLogo"/>.</para>
+<figure id="OSX_Eship_13_02_BCorpLogo" class="scaled-down-30">
+<media id="fs-idm348896928" alt="B corporation logo showing a capital B in a circle with the word Certified above it and Corporation (underlined) below it.">
+<image mime-type="image/jpeg" src="../../media/OSX_Eship_13_02_BCorpLogo.png"/>
+</media>
+<caption>In order to become a certified B corporation, a company must go through an external audit of compliance with each of the requirements of the B corporation. (credit: modification of “Runa B Corp Label” by “Lelepanne”/Wikimedia Commons, CC0)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-idm358103456">
+<title>Privately Held versus Publicly Held Corporations</title>
+<para id="fs-idm618386400">Terminology relating to whether a company is publicly or privately owned can sometimes be confusing. For example, large corporations such as <term class="no-emphasis">Exxon</term> or <term class="no-emphasis">Amazon</term> are private corporations, but their stock is publicly held. This means that any member of the investing public can own stock in the corporation. A true <term>public corporation</term> is, in reality, a quasi-governmental entity, an entity owned or sponsored by the government. Government-owned corporations include the <term class="no-emphasis">US Postal Service</term>, the <term class="no-emphasis">Corporation for Public Broadcasting</term>, <term class="no-emphasis">AmeriCorps</term>, and <term class="no-emphasis">Amtrak</term>. Government-sponsored corporations include <term class="no-emphasis">Freddie Mac</term> and <term class="no-emphasis">Fannie Mae</term>, mortgage-related entities. A <term>privately held corporation</term>, common in Europe, is a company that does not allow members of the investing public to own stock. The founder’s family or friends, or perhaps a private group of investors such as a venture capital firm, may hold it. Examples include <term class="no-emphasis">Facebook</term> before it went public in 2012, or <term class="no-emphasis">Cargill</term> or <term class="no-emphasis">Mars</term>.</para>
+<section id="fs-idm330301040">
+<title>Publicly Traded Corporations</title>
+<para id="fs-idm344592832">A <term>publicly held corporation</term> is, as described, an entity in which members of the investing public own the stock. A term commonly applied to such corporations is a <term class="no-emphasis"><emphasis effect="italics">publicly traded corporation</emphasis></term>, meaning that the stock can be bought and sold in the public marketplace, such as the <term class="no-emphasis">New York Stock Exchange</term>. A publicly traded corporation has more access to investors and thus more capital, but it must operate under a formal set of rules established by the <term class="no-emphasis">Securities and Exchange Commission</term> and Congress, assuming the shares are sold publicly in the United States. Audits of publicly traded companies also have to follow the rules of the <term class="no-emphasis">Public Company Accounting Oversight Board (PCAOB)</term>. “The PCAOB oversees the audits of public companies and broker-dealers in order to protect investors and the public interest by promoting informative, accurate, and independent audit reports.”<footnote id="fs-idm342503600">PCAOB. “Protecting Investors Through Audit Oversight.” n.d. https://pcaobus.org/</footnote> Following the SEC and PCAOB rules emphasizes investor protection but can be complex, as it increases both startup and operating costs for the venture due to increased regulation and reporting.</para>
+<para id="fs-idm352854784">A publicly traded company is required to have a board of directors with a dual mandate to both consult with management regarding the strategic direction of the company and oversee company performance. The board of directors does not manage the company, and the members are separate from management.<footnote id="fs-idm349252960">Stanford Business Graduate School: Corporate Governance Research Initiative. <emphasis effect="italics">Board of Directors, Duties and Liabilities</emphasis>. n.d. https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/cgri-quick-guide-03-board-directors-duties-liabilities.pdf</footnote> The board will have numerous committees to assist in its functionality, and one of the committees is the audit committee. The audit committee of a publicly traded company must hire an outside auditor approved by the PCAOB to audit the books of the publicly traded company. Further, the chief executive office and chief financial officer of the publicly traded company must sign a certification of earnings report, guaranteeing their truthfulness. The rules and regulations with which compliance is required are more demanding for a publicly traded company than for a privately held or closely held company.</para>
+</section>
+<section id="fs-idm319130432">
+<title>Closely Held Corporations</title>
+<para id="fs-idm357586032">A <term class="no-emphasis">closely held corporation</term>, also known as a <term class="no-emphasis">close corporation</term>, is the same as a privately held corporation for the purposes of securities laws. However, the concept has a secondary meaning related to management structure. A close corporation is also a management structure for a corporation that is often selected by small companies that use the less-formal management style of a general partnership yet retain the limited liability of a corporation. In essence, there are fewer formalities for a close corporation, and it allows greater control for the small group of shareholders.</para>
+<para id="fs-idm359799664">A close corporation is required to have an annual shareholder meeting and keep corporate minutes. All of this detail is required to be recorded in the corporate records, even if there is just one shareholder. Sole proprietors using a corporation as a business structure must follow the rules regarding corporations in the state in which they were incorporated. Some states may even dissolve a corporation that does not have an annual meeting or keep proper corporate records. When a corporation is dissolved, the shareholders become personally liable for corporate debts, and shareholders’ limited liability is lost. Managing a closely held company requires the entrepreneur to follow state guidelines while operating the corporation accordingly.</para>
+<para id="fs-idm352577456">The shares of a closely held corporation are not traded on the open market and typically have just a few shareholders. Closely held corporations have fewer reporting requirements than publicly traded companies and typically are not required to have audited financial statements, unless the corporate charter says otherwise. Audited financial statements are costly and are required for publicly traded companies. The audited financial statements help investors buying and selling stock in the stock market value shares and are not necessarily needed for a closely held corporation. However, it is difficult to value a closely held corporation because there is no ready market for the ownership shares.</para>
+</section>
+</section>
+<section id="fs-idm359178208">
+<title>Not-for-Profit Corporations</title>
+<para id="fs-idm336099360">Nonprofit corporations are created in one a state but may operate or solicit donations in other states. A nonprofit corporation operating or soliciting donations in multiple states needs to register to operate as a nonprofit corporation in every state in which it operates.</para>
+<para id="fs-idm351980224"><term class="no-emphasis">Not-for-profit corporations</term> are organized in a similar fashion to <term class="no-emphasis">for-profit corporations</term>, with a board of directors and officers, but they have no shareholders, stock, or owners. The stakeholders of a non-for-profit corporation play an important role, monitoring overhead and allocation of funds. Since most of the funds are donations and are tax deductible, public watchdogs may monitor the financial statements of federally tax-exempt organizations. The fact that the Internet provides easy access to financial data related to federally tax-exempt nonprofits provides watchdog organizations easy access to financial data and the ability to analyze the operations and compensation for the nonprofit’s organizers and employees.</para>
+<note id="fs-idm341540096" class="entrepreneur-in-action">
+<title>Bombas: Achieving Profit and Nonprofit Goals</title>
+<para id="fs-idm361735696">In a 2017 interview with Robin Roberts of ABC News, <term class="no-emphasis">Bombas</term> socks (<link target-id="OSX_Eship_13_02_Bombas"/>) co-founder David <term class="no-emphasis">Heath</term> said: “Back in 2011, I came across a quote on Facebook that said…that socks were the number one most requested clothing item in homeless shelters.”<footnote id="fs-idm354752512">ABC News. “Q&amp;A: Entrepreneurs behind the Socks Company Bombas Share Their Career Advice.” August 2, 2017. https://abcnews.go.com/Business/qa-entrepreneurs-socks-company-bombas-share-career-advice/story?id=48954057</footnote> So he decided to start a new company that was an overnight success, boosted by an appearance on <term class="no-emphasis"><emphasis effect="italics">Shark Tank</emphasis></term> in 2014. He created his company, Bombas, with co-founding entrepreneur Randy <term class="no-emphasis">Goldberg</term>. They founded their company with the goal of giving back to the community by donating socks to the homeless, with its actual product idea as a secondary goal.<footnote id="fs-idm357765440">Mara Leighton. “B Corps Are Businesses Committed to Using Their Profit for Good—These 12 Are Making Some Truly Great Products.” <emphasis effect="italics">Business Insider</emphasis>. June 6, 2019. https://www.businessinsider.com/b-corp-charitable-business-2018-8?IR=T&amp;r=US</footnote> They have donated over 25 million items through more than 2,500 partners across the country.<footnote id="fs-idm329829056">Bombas. “Giving Back.” n.d. https://bombas.com/pages/giving-back</footnote></para>
+<figure id="OSX_Eship_13_02_Bombas" class="scaled-down-30">
+<media id="fs-idm320788384" alt="A photo of socks.">
+<image mime-type="image/jpeg" src="../../media/OSX_Eship_13_02_Bombas.png"/>
+</media>
+<caption>This is a pair of Bombas socks. (credit: modification of “Bombas Socks” by Tony Webster/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="fs-idm357550144">Bombas is now a successful sock company that uses a business entity as a way to address the shortage of sock donations in homeless shelters. Heath and Goldberg spent two years inventing pairs of high-quality socks with extras such as reinforced foot beds and anti-blister tabs, coupled with contoured seaming. For these entrepreneurs though, it was not just about sock technology, it was about doing something meaningful at the same time—a combination of profit and nonprofit goals. Therefore, they made a commitment to those in need, and since 2013, the company has donated more than 10 million pairs of socks to homeless shelters, due to their buy one, give one model of marketing socks.</para>
+<para id="fs-idm620155968">The socks that Bombas donates to the homeless are not cheap throw-away token socks. Rather, they have been designed for their homeless wearers, for example, with antimicrobial treatment to prevent bacteria if they cannot be washed as frequently and reinforced seams for durability, since the homeless do not have the money to keep buying new ones.<footnote id="fs-idm320506240">Mara Leighton. “B Corps Are Businesses Committed to Using Their Profit for Good—These 12 Are Making Some Truly Great Products.” <emphasis effect="italics">Business Insider</emphasis>. June 6, 2019. https://www.businessinsider.com/b-corp-charitable-business-2018-8?IR=T&amp;r=US</footnote></para>
+<para id="fs-idm335378816">In essence, the company makes customers, and the company partners with the homeless.</para>
+<list id="fs-idm359241312" list-type="bulleted">
+<item>Is Bombas really paying for this project to help the homeless or is the customer?</item>
+<item>Is Bombas just facilitating the good idea and customers are paying for it, or do you think Bombas is also contributing some of its profit?</item>
+</list>
+</note>
+<note id="fs-idm340519360" class="link-to-learning">
+<para id="fs-idm336180960">Go to the <link url="https://openstax.org/l/52Bombas">Bombas website</link> to watch the video that explains what they do as part of their <term class="no-emphasis">B corporation</term> commitment.</para>
+</note>
+</section>
+<section id="fs-idm345020320">
+<title>Overview of Corporate Taxation</title>
+<para id="fs-idm349188448">All for-profit corporations are subject to income tax at the federal level, and usually at the state level as well. Regardless of tax elections, both C- and S corporations are subject to taxation.</para>
+<para id="fs-idm620156464">Tax planning is a major issue for most corporations and may explain some key decisions, such as where they are located. That could involve decisions about which state the corporate headquarters are in, or even in which nation the headquarters are located. This is because tax laws may vary significantly by both state and nation.</para>
+<para id="fs-idm344603152">The current federal income tax rate for corporations in 2019 is 21 percent, down drastically from 35 percent, which was the rate prior to 2018. Many states add a state-level income tax, ranging from 2 percent to 12 percent, while some states such as Texas do not have a corporate income tax in an effort to attract corporations to the state.<footnote id="fs-idm330412800">Tax Foundation. “State Corporate Income Tax Rates and Brackets for 2019.” 2019. https://taxfoundation.org/state-corporate-rates-brackets-2019/</footnote></para>
+<section id="fs-idm338182080">
+<title>Taxation of C Corporations</title>
+<para id="fs-idm360380656"><term class="no-emphasis">C corporations</term> pay corporate income taxes on profits made. Individual shareholders are also subject to personal income taxes on any dividends they receive. Most attorneys and accountants refer to this concept as the double taxation disadvantage. However, the historical tax disadvantage has been recently reduced because of the decrease in the income tax rate paid by C corporations by the Tax Cuts and Jobs Act.<footnote id="fs-idm332940608">US Internal Revenue Code of 1986. 131 Stat. 2054.</footnote> This decrease, in turn, reduces the double tax disadvantage. Further, the ability to retain and reinvest profits in the company at a lower corporate tax rate is an advantage.</para>
+<para id="fs-idm359331488">A C corporation does come with a degree of added formality, or as some may refer to it, red tape. According to most states’ corporation laws, as well as federal tax and securities laws, the corporation must have company bylaws and must file annual reports, financial disclosure reports, and financial statements. They must hold at least one meeting each year for shareholders and directors where minutes are taken and maintained to display transparency. A C corporation must also keep voting records of the company’s directors and a list of the owners’ names and ownership percentages.</para>
+<para id="fs-idm618509056">Despite the tax implications, the C corporation structure is the only one that makes sense for most large US businesses because it allows for the wide-scale sale of a large amount of stock to the general investing public without limits. A C corporation can have an unlimited number of shareholders that are individuals or other business entities, and are either US citizens or foreign nationals.</para>
+</section>
+<section id="fs-idm360353456">
+<title>Taxation of S Corporations</title>
+<para id="fs-idm353010832">As previously discussed, the <term class="no-emphasis">S corporation</term> is a corporate entity in which the firm’s profit is passed through its stockholders (shareholders), usually in proportion to their investment—this is known as pass-through taxation. Essentially, this amounts to tax management by the corporate owners. The IRS taxes the corporate profits at the personal income tax rates of the individual shareholders. S corporations (S stands for “small”), also called subchapter S corporations, must comply with several important restrictions with which entrepreneurs must comply.</para>
+<para id="fs-idm338242800">S corporations have a limit on shareholders. Unlike with C corporations, the Internal Revenue Code limits the number of S corporation shareholders to 100 or fewer, and owners can only be individuals, (or estates and certain types of tax-exempt entities). Additionally, the individual shareholders must also be US citizens or legal permanent residents. Furthermore, S corporations may only have one class of stock, whereas C corporations may have multiple classes. For example, in a C corporation, there might be voting shares, nonvoting shares, common shares (the type most people buy), and preferred shares (which are repaid first in the event of bankruptcy).</para>
+</section>
+</section>
+<section id="fs-idm318616224" class="section-summary">
+<title>Summary</title>
+<para id="fs-idm354261552">When forming a corporation, there are numerous choices. One choice is whether to form a C- or S corporation. This is primarily a tax decision, with C corporations being taxed as corporations, and S corporations being taxed as partnerships. Which one is the best for you depends on a number of variables, including how many shareholders you aim to have and how much of the revenue you want to leave in the corporation versus take out of it in the form of dividends, considering possible double taxation issues. Another choice is whether you want to go through the process of becoming a certified B corporation through adherence to a number of social/sustainability guidelines. Finally, you must decide if you eventually want your equity (stock) to be publicly held, as it is in most large companies, or privately held, which may give you more control but limit access to capital.</para>
+</section>
+<section id="fs-idm321015552" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idm355557568">
+<problem id="fs-idm333596896">
+<para id="fs-idm318350832">How is an S corporation taxed?</para>
+<list id="fs-idm352507920" list-type="enumerated" number-style="upper-alpha">
+<item>at the entity level as a corporation</item>
+<item>at the owner level as if it were a partnership</item>
+<item>at both the entity and owner levels</item>
+<item>at a special lower rate of income tax</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm320163760">
+<problem id="fs-idm318749520">
+<para id="fs-idm360777936">A public corporation is ________.</para>
+<list id="fs-idm360764288" list-type="enumerated" number-style="upper-alpha">
+<item>owned or sponsored by the government</item>
+<item>owned by member of the investing public</item>
+<item>owned by a combination of public and private investors</item>
+<item>none of these choices are correct</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm619971344">
+<problem id="fs-idm341249392">
+<para id="fs-idm349114464">A C corporation is taxed ________.</para>
+<list id="fs-idm297242880" list-type="enumerated" number-style="upper-alpha">
+<item>at the entity level</item>
+<item>at the individual level</item>
+<item>at both the entity and individual levels potentially</item>
+<item>only at the state level, not federal</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm361050064" class="discussion-questions">
+<title>Discussion Questions</title>
+<exercise id="fs-idm350568464">
+<problem id="fs-idm350593920">
+<para id="fs-idm320827584">What are the distinguishing characteristics of a B corporation?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm324583712">
+<problem id="fs-idm317149920">
+<para id="fs-idm357234352">Why would an entrepreneur choose to operate an S corporation rather than a C corporation?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm320715568" class="case-questions">
+<title>Case Questions</title>
+<exercise id="fs-idm344791664">
+<problem id="fs-idm319275936">
+<para id="fs-idm360769360">Jai started a new sustainability-oriented business six years ago, making single-serve coffee pods out of recyclable paper, rather than plastic. The company, Jai’s Pod, is now experiencing rapid growth. Jai started the company as an LLC but has been considering making a decision to incorporate. What are some of the advantages of changing to a C corporation?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm341727232" class="suggested-resources">
+<title>Suggested Resources</title>
+<para id="fs-idm354390816">A cost-effective solution for obtaining business counsel is the Service Corps of Retired Executives (SCORE), which provides free advice for small businesses and entrepreneurs. The SCORE organization is the nation’s largest nonprofit network of volunteer, expert business mentors, with more than 10,000 volunteers in 300 chapters. You can find them at: https://www.score.org/</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm318922608">
+<term>B corporation</term>
+<meaning id="fs-idm343337136">business that meets a very high standard of social and environmental performance, public transparency, and accountability to balance profit with social purpose</meaning>
+</definition>
+<definition id="fs-idm318746176">
+<term>capital</term>
+<meaning id="fs-idm357445120">money raised for operating a business</meaning>
+</definition>
+<definition id="fs-idm319244672">
+<term>C corporation</term>
+<meaning id="fs-idm332716160">corporation taxed the corporate level, and then again on the owners’ personal income tax returns if corporate income is distributed to the shareholders as dividends</meaning>
+</definition>
+<definition id="fs-idm334112144">
+<term>corporation</term>
+<meaning id="fs-idm352294336">complex business structure created by filing the appropriate documents with the state of incorporation</meaning>
+</definition>
+<definition id="fs-idm359196592">
+<term>privately held corporation</term>
+<meaning id="fs-idm339480368">company that does not allow members of the investing public to own stock; instead, it is owned by the founder’s family or friends, or a private group of investors</meaning>
+</definition>
+<definition id="fs-idm359810112">
+<term>public corporation</term>
+<meaning id="fs-idm357780000">quasi-governmental entity, a corporation owned or sponsored by the government</meaning>
+</definition>
+<definition id="fs-idm298550448">
+<term>publicly held corporation</term>
+<meaning id="fs-idm345025984">entity in which members of the investing public own the stock</meaning>
+</definition>
+<definition id="fs-idm350355120">
+<term>S corporation</term>
+<meaning id="fs-idm338227584">“pass-through” entity, also known as a small corporation, where shareholders report and claim the business’s profits as their own and pay personal income taxes on it</meaning>
+</definition>
+</glossary>
+</document>

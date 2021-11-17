@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71161</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>ae0c954d-5964-416b-a13f-3c1039594844</md:uuid>
+</metadata>
+
+<content>
+<figure id="OSX_Eship_10_00_Dropbox" class="splash">
+<media id="fs-idm216256736" alt="Photo of a cell phone with the Dropbox app open on the screen.">
+<image mime-type="image/jpeg" src="../../media/OSX_Eship_10_00_Dropbox.jpg"/>
+</media>
+<caption>Dropbox, founded by Drew Houston and Arash Ferdowsi, has realized unprecedented growth, as the company is valued in the billions of dollars. (credit: modification of “Dropbox” by Ian Lamont/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="fs-idm175199104"><term class="no-emphasis">Dropbox</term>, a company founded in 2007 by Drew <term class="no-emphasis">Houston</term> and Arash <term class="no-emphasis">Ferdowsi</term>, has revolutionized the way consumers and businesses store and share electronic files. The idea came one day when Houston—on a commuter train—realized he left his thumb drive at home. This was not the first time he had forgotten that tiny electronic filing cabinet, and he was sure others forgot often as well. So he hit on an idea: storing his files on a “cloud” on the Internet that anyone could access from anywhere with any device.<footnote id="fs-idm225381792">Sarah Buhr and Katie Roof. “A Brief History of Dropbox.” <emphasis effect="italics">TechCrunch</emphasis>. March 6, 2018. https://techcrunch.com/gallery/a-brief-history-of-dropbox/slide/1/</footnote> He wanted to manage file storage at faster speeds and in larger quantities than the few existing online storage systems, through an easy-to-use interface. Although Houston came up with the idea of cloud <emphasis effect="italics">storage</emphasis> during his commute, cloud <emphasis effect="italics">computing</emphasis> had been talked about in industry circles a few years prior.<footnote id="fs-idm227859664">Johnson Hur. “History of Online Storage.” <emphasis effect="italics">BeBusinessEd.com</emphasis>. n.d. https://bebusinessed.com/history/history-of-online-storage/</footnote></para>
+<para id="fs-idm181309360">Hopeful, he introduced his idea to Y Combinator, a venture capital firm in California that helps fund startups by hosting, training, and helping them define their pitches to investors. Even though they had rejected a business idea he’d presented earlier, they told him the new idea was promising and asked him to secure a co-founder before pitching. A co-founder would help to secure funding because it showed the idea had legitimacy, support, and the expertise of another person. Houston quickly found Ferdowsi, a fellow MIT student studying engineering and computer science.<footnote id="fs-idm499446784">“How I Met My Co-Founder: Drew Houston, Dropbox.” From <emphasis effect="italics">Finding Your Way as an Entrepreneur</emphasis>. May 30, 2012. https://ecorner.stanford.edu/in-brief/how-i-met-my-co-founder/</footnote> Together, they raised $1.2 million from investors, even though their prototype wasn’t fully functional. They then hired developers and engineers who created a more functional version that worked across most computer operating systems.</para>
+<para id="fs-idm187662432">Dropbox was soon using <emphasis effect="italics">lean startup</emphasis> principles, which meant releasing an early version to early adopters. Houston had a difficult time explaining the product to initial users, so he developed a video with a quirky narration to entice them. The early product release was a hit: In one day, their customer base increased from 5,000 to 75,000 users, who could also provide them with feedback for subsequent versions.</para>
+<para id="fs-idm201216288">Thanks to its massive success, Dropbox was valued at $10 billion in 2014.<footnote id="fs-idm202743744">Eliot Brown and Jay Greene. “Dropbox Files for IPO Three Years after $10 Billion Private Valuation.” <emphasis effect="italics">The Wall Street Journal</emphasis>. January 11, 2018. https://www.wsj.com/articles/dropbox-files-for-ipo-three-years-after-10-billion-private-valuation-1515708036</footnote> However, some analysts believed the number was inflated as Dropbox’s competitors started gaining market share. The company continues to receive customer feedback to make the iterations necessary for better versions.</para>
+ </content>
+</document>

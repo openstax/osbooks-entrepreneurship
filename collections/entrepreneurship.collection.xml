@@ -1,0 +1,166 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col29104</md:content-id>
+    <md:title>Entrepreneurship</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>d380510e-6145-4625-b19a-4fa68204b6b1</md:uuid>
+<md:slug>entrepreneurship</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m71112"/>
+    <col:subcollection>
+      <md:title>The Entrepreneurial Perspective</md:title>
+      <col:content>
+        <col:module document="m71113"/>
+        <col:module document="m71114"/>
+        <col:module document="m71115"/>
+        <col:module document="m71125"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Entrepreneurial Journey and Pathways</md:title>
+      <col:content>
+        <col:module document="m71120"/>
+        <col:module document="m71121"/>
+        <col:module document="m71122"/>
+        <col:module document="m71123"/>
+        <col:module document="m71124"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Ethical and Social Responsibilities of Entrepreneurs</md:title>
+      <col:content>
+        <col:module document="m71126"/>
+        <col:module document="m71127"/>
+        <col:module document="m71128"/>
+        <col:module document="m71129"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Creativity, Innovation, and Invention</md:title>
+      <col:content>
+        <col:module document="m71131"/>
+        <col:module document="m71132"/>
+        <col:module document="m71133"/>
+        <col:module document="m71134"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Identifying Entrepreneurial Opportunity</md:title>
+      <col:content>
+        <col:module document="m71135"/>
+        <col:module document="m71136"/>
+        <col:module document="m71137"/>
+        <col:module document="m71169"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Problem Solving and Need Recognition Techniques</md:title>
+      <col:content>
+        <col:module document="m71138"/>
+        <col:module document="m71139"/>
+        <col:module document="m71140"/>
+        <col:module document="m71141"/>
+        <col:module document="m80329"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Telling Your Entrepreneurial Story and Pitching the Idea</md:title>
+      <col:content>
+        <col:module document="m71142"/>
+        <col:module document="m71143"/>
+        <col:module document="m71174"/>
+        <col:module document="m71144"/>
+        <col:module document="m71145"/>
+        <col:module document="m71147"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Entrepreneurial Marketing and Sales</md:title>
+      <col:content>
+        <col:module document="m71148"/>
+        <col:module document="m71149"/>
+        <col:module document="m71150"/>
+        <col:module document="m71151"/>
+        <col:module document="m71152"/>
+        <col:module document="m71175"/>
+        <col:module document="m71153"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Entrepreneurial Finance and Accounting</md:title>
+      <col:content>
+        <col:module document="m71154"/>
+        <col:module document="m71155"/>
+        <col:module document="m71156"/>
+        <col:module document="m71157"/>
+        <col:module document="m71158"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Launch for Growth to Success</md:title>
+      <col:content>
+        <col:module document="m71161"/>
+        <col:module document="m71164"/>
+        <col:module document="m71165"/>
+        <col:module document="m71166"/>
+        <col:module document="m71171"/>
+        <col:module document="m71172"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Business Model and Plan</md:title>
+      <col:content>
+        <col:module document="m71176"/>
+        <col:module document="m71177"/>
+        <col:module document="m71178"/>
+        <col:module document="m71179"/>
+        <col:module document="m71180"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Building Networks and Foundations</md:title>
+      <col:content>
+        <col:module document="m71181"/>
+        <col:module document="m71182"/>
+        <col:module document="m71183"/>
+        <col:module document="m71184"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Business Structure Options: Legal, Tax, and Risk Issues</md:title>
+      <col:content>
+        <col:module document="m71186"/>
+        <col:module document="m71187"/>
+        <col:module document="m71188"/>
+        <col:module document="m71189"/>
+        <col:module document="m80301"/>
+        <col:module document="m80312"/>
+        <col:module document="m80316"/>
+        <col:module document="m71190"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fundamentals of Resource Planning</md:title>
+      <col:content>
+        <col:module document="m71191"/>
+        <col:module document="m71192"/>
+        <col:module document="m71193"/>
+        <col:module document="m71194"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Next Steps</md:title>
+      <col:content>
+        <col:module document="m71196"/>
+        <col:module document="m71198"/>
+        <col:module document="m71199"/>
+        <col:module document="m71200"/>
+        <col:module document="m71201"/>
+        <col:module document="m71211"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m71206"/>
+  </col:content>
+</col:collection>

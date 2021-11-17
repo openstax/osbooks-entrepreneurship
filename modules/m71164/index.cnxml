@@ -1,0 +1,340 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Launching the Imperfect Business: Lean Startup</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71164</md:content-id>
+  <md:title>Launching the Imperfect Business: Lean Startup</md:title>
+  <md:abstract/>
+  <md:uuid>3690fd68-4772-4ea5-859a-1287d373e86f</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-idm354219728" class="learning-objectives">
+<title>Learning Objectives</title>
+<para id="fs-idm508957760">By the end of this section, you will be able to:</para>
+<list id="fs-idm316570752" list-type="bulleted">
+<item>Describe how businesses use lean startup principles to develop products and test markets</item>
+<item>Identify how the <emphasis effect="italics">build-measure-learn</emphasis> method helps companies understand what potential customers want in a product</item>
+<item>Determine what a minimum viable product (MVP) is and explain why companies don’t need to have a perfect product to launch</item>
+<item>Explain why companies need to learn to construct a lean pitch to investors and potential customers</item>
+<item>Explain what pivoting is and when it is necessary for companies to undertake</item>
+</list>
+</section>
+<para id="fs-idm357762592">As you can see from the <term class="no-emphasis">Dropbox</term> example, businesses can function without being perfect. The company initially provided a <link url="https://openstax.org/l/52Dropbox">short video description of the Dropbox product</link> without even having it coded to the actual program first.<footnote id="fs-idm515544592">“The Original Dropbox MVP Explainer Video.” <emphasis effect="italics">Allen Cheng</emphasis>. n.d. https://www.allencheng.com/dropbox-mvp-explainer-video/</footnote> This way, they could test the idea and receive customer feedback without losing time or money on products that wouldn’t work. If any changes were needed, they had the flexibility to make them because it was just an early prototype and no big investment on the product had been made yet. Many of the early changes were to the interface design that involved buttons and actions that could be taken, and storage capabilities that customers consistently gave feedback on.</para>
+<para id="fs-idm320899456">New businesses need time to develop their identities, engage their target market, create and develop the right products, and sharpen their strategies. Startups don’t have fully developed and proven business models like established companies do. A business’s starting focus or idea may evolve into something else because the initial feedback from the prototype points in a different direction.</para>
+<para id="fs-idm315466896"><term class="no-emphasis">Houston</term> (pictured in <link target-id="OSX_Eship_10_01_Houston"/>) and <term class="no-emphasis">Ferdowsi</term> knew they did not have the perfect product, so they employed a system called <term>lean startup</term>, a methodology entrepreneurs use to help them innovate by continuously testing their products and getting feedback from customers in real time. This methodology calls for a product to be shared with early adopters in its beginning stages of development and gain immediate feedback. It ensures that people actually like a product and are willing to buy it. Tech companies primarily use this method because they have learned that too many years working on a product without measuring is highly risky, especially in a rapidly changing technological environment. Lean strategy, though, is applicable to almost every business and industry.</para>
+<para id="fs-idm468176704">Even with Dropbox’s reported $1 billion in revenue and 500-plus million users, Houston’s journey still has its ups and downs. He learned that the CEO’s job changes as the venture progresses because the company’s needs vary across its lifecycle. The CEO has to shift focus, such as on building prototypes, testing users, exploring the best distribution channels, and managing cash flow. These hurdles need to be tackled when they arise.<footnote id="fs-idm512797328">Scott Rosenberg. “Inside Dropbox’s Identity Overhaul.” <emphasis effect="italics">Wired</emphasis>. January 30, 2017. https://www.wired.com/2017/01/inside-dropboxs-identity-overhaul/</footnote> Let’s take a closer look at lean startup, and how it got its own start.</para>
+<figure id="OSX_Eship_10_01_Houston" class="scaled-down">
+<media id="fs-idm510205440" alt="Photo of Andrew Houston talking to another person.">
+<image mime-type="image/jpeg" src="../../media/OSX_Eship_10_01_Houston.jpg"/>
+</media>
+<caption>Andrew Houston believes that, as a CEO, you must shift your focus as your business needs change. (credit: “Drew Houston (Dropbox) by Financial Times/Wikimedia Commons, CC BY 2.0)</caption>
+</figure>
+<section id="fs-idm506335472">
+<title>Lean Startup</title>
+<para id="fs-idm321650256">Author and entrepreneur Eric <term class="no-emphasis">Ries</term> developed the lean startup methodology after spending much time, effort, and money when his first tech company had to close down. Fortunately, Ries’ frustration led him to study other successful companies and lean manufacturing programs, including the highly successful <term class="no-emphasis">Toyota</term> <term class="no-emphasis">lean manufacturing process</term>, which taught him how to be flexible and quick while building products. He learned that he didn’t need to have a fully designed product resulting from years of development; instead, he could have something imperfect that worked without the bells and whistles, something that people could test and provide feedback on over time.</para>
+<note id="fs-idm516141872" class="link-to-learning">
+<para id="fs-idm354121424">Steve Blank is the creator of the customer development methodology that is considered a cornerstone of the lean startup movement. Watch his <link url="https://openstax.org/l/52BlankLean">presentation on the methodology’s most important concepts</link> to learn more. These components are the heart of <link url="https://openstax.org/l/52ToyotaWay">Toyota’s 14 management principles</link> known as the Toyota Way.</para></note>
+<para id="fs-idm510138592">He advocated a step-by-step approach on how to maneuver a startup, how to change course if necessary, persevere, and accelerate its expansion. This is also called the <term>build-measure-learn loop</term>, which means that a prototype is built, or at least the idea is written down, it is then pitched to customers who provide feedback so the company learns what to keep and what to change, then it makes the changes to the prototype, and starts all over again, repeating the process until the prototype is good enough to go to market. <link target-id="OSX_Eship_10_01_BML"/> illustrates this loop. Even after it hits the mass market, this loop can continue to be used to enhance the product.</para>
+<figure id="OSX_Eship_10_01_BML" class="scaled-down">
+<media id="fs-idm328702400" alt="The build-measure-learn loop as a pyramid, with Build at the top, with an arrow going to Measure, an arrow going from Measure to Learn, and an arrow going from Learn to Build. The middle text reads: Minimum Viable Product (MVP).">
+<image mime-type="image/jpeg" src="../../media/OSX_Eship_10_01_BML.jpg"/>
+</media>
+<caption>The build-measure-learn loop is a framework that helps entrepreneurs develop their idea into a minimum viable product (MVP), measure its impact on people, and learn if there is a need to pivot (change) or persevere. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="fs-idm380326912">After his first startup proved unsuccessful, Ries created a second company called IMVU.<footnote id="fs-idm359023216">Eric Ries. <emphasis effect="italics">The Lean Startup</emphasis> (New York: Crown Business, 2011), 1–8.</footnote> <term class="no-emphasis">IMVU</term> is an <term class="no-emphasis">avatar platform</term>, or “<term class="no-emphasis">metaverse</term>,” for people who want to shop for clothing, furniture, and accessories in an online community and keep their identity safe. Essentially, IMVU is a virtual reality world with an e-commerce engine, user-generated content, and 3-D characters. While Ries was building IMVU, he and his co-founders worked endless hours for six months to create a prototype of 3-D avatars that they later learned no one wanted. During their first month, they made a total of $300. The next month they made $400 after begging friends and family to try it.</para>
+<para id="fs-idm337835440">After Ries saw their faithful first customers disappear, he and his co-founders decided to shift from feeling frustrated to talking to potential customers. They tested their product with teenagers and heavy users of technology, as well as with mainstream customers. The mainstream customers never knew what to do with the product. They thought it was too strange. But those that were more tech savvy and younger were happy to try it. They gave a lot of feedback that resulted in creating a better version of the avatar community.<footnote id="fs-idm509769648">Eric Ries. <emphasis effect="italics">The Lean Startup</emphasis> (New York: Crown Business, 2011), 43.</footnote></para>
+<para id="fs-idm354398688">The initial platform was designed as a <term>minimum viable product (MVP)</term>, which is a very early prototype of a product.<footnote id="fs-idm353985760">Eric Ries. <emphasis effect="italics">The Lean Startup</emphasis> (New York: Crown Business, 2011), 43.</footnote> According to Ries, an MVP can be the bare minimum to help people understand what the product is about. A product doesn’t even have to be built to be an MVP; instead, it can be represented in sketches, videos, and explanations of how it might look. MVPs also can include a basic version of the product, just like IMVU’s website, which was not very good at first. The point is to have a basic product to show to potential users, with enough substance to elicit feedback on what people find useful and what attributes are important without having to invest a lot of money and time. There is no right or wrong type of MVP. It is up to the owner to decide how to showcase the idea and test it to find out what people like and don’t like, and how to take the idea to the next level.</para>
+<para id="fs-idm319937888">Through this MVP experience, Ries (shown in <link target-id="OSX_Eship_10_01_Ries"/>) realized that his first platform had bugs and issues that could crash users’ computers; however, in spite of the bugs, he was determined to get customer feedback without spending lots of cash or time. Once he and his co-founders had the low-quality platform running, they decided to charge a fee for the service. They would send dozens of changes to their loyal followers until they developed a product that would work for a larger customer base. These changes included adjustments such as adding new avatars, new avatar movements, choices of clothing, and new worlds for avatars to explore. IMVU pioneered this lean startup approach, which new ventures all over the world now use. Today, IMVU is a successful enterprise with over $55 million in revenue and 50 million users.<footnote id="fs-idm344658720">IMVU Inc. “IMVU Inc. Celebrates Nine Years of Connecting People around the World, Expands Profitable Business to Mobile.” <emphasis effect="italics">PR Newswire</emphasis>. April 8, 2013. https://www.prnewswire.com/news-releases/imvu-inc-celebrates-nine-years-of-connecting-people-around-the-world-expands-profitable-business-to-mobile-201920201.html</footnote></para>
+<figure id="OSX_Eship_10_01_Ries" class="scaled-down">
+<media id="fs-idm512401568" alt="Four men sitting on a stage talking about lean startup. A screen shows the names Eric Ries (author, The Lean Startup), Scott Cook (co-founder, Intuit), and Kevin Systrom (co-founder, Instagram).">
+<image mime-type="image/jpeg" src="../../media/OSX_Eship_10_01_Ries.jpg"/>
+</media>
+<caption>Eric Ries, third from left, speaks at a conference about the lean startup process he developed while creating his second business. (credit: modification of “Eric Ries TechCrunch Disrupt” by “kawanet”/Wikimedia Commons, CC BY 2.0)</caption>
+</figure>
+<para id="fs-idm381937904">A lean startup begins with the first stage of <emphasis effect="italics">building</emphasis> a basic product (MVP) that has only its core benefits and no extra features. <term class="no-emphasis">Houston</term> and his developers created a basic platform for early adopters to test. <term>Early adopters</term> are people who like to try new products as soon as they come out. They don’t mind, for example, buggy software or cumbersome designs because they are innovators and like to test new things. <term class="no-emphasis">Dropbox</term> did not create a perfect product initially because the developers did not know what it would be until they got user feedback. After early signups and feedback on the first prototype, they were able to create the first version of the product. Later, they conducted <term>iterations</term>, or additions or changes to the version of the product, using customers’ ideas and suggestions.</para>
+<para id="fs-idm515903456"><term class="no-emphasis">Zappos</term> is another example of an MVP development project. Nick <term class="no-emphasis">Swinmurn</term>, creator of the online shoe company, launched the idea in 1998 by creating a bare bones website to sell shoes and measuring traffic to the site.<footnote id="fs-idm355379264">“Lean Startup Zappos: The Basics.” <emphasis effect="italics">Bullet</emphasis>. n.d. https://www.bullethq.com/lean-startup-zappos-how-zappos-validated-their-business-model-with-lean/</footnote> The idea started after he took a trip to the mall and could not find shoes in the styles or colors he wanted. He figured other people had equally frustrating experiences. His first hypothesis was that people were interested in buying shoes online, so he asked Tony <term class="no-emphasis">Hsieh</term>, current CEO of Zappos, to invest in this new project. Hsieh provided half a million dollars to get the company started. Swinmurn then created a plain webpage that started with basic photos of shoes and their prices. Swinmurn also ran ad campaigns, measured web traffic, and adjusted the webpage. Instead of spending so much time in building a detailed plan about his business, this method helped him make quick adjustments to the product, the target market, and strategies using the build-measure-learn loop and starting with an MVP, just as Houston did.<footnote id="fs-idm316893056">“The Lean Startup Methodology.” <emphasis effect="italics">The Lean Startup</emphasis>. n.d. http://theleanstartup.com/principles</footnote></para>
+<note id="fs-idm515187024" class="work-it-out">
+<title>Five Lean Principles</title>
+<para id="fs-idm363824880">Go to the website http://theleanstartup.com/#principles and click on the link “Lean Startup Process In Detail.”</para>
+<list id="fs-idm507541152" list-type="bulleted">
+<item>Pick one topic that interests you and write a one-page summary of the concept.</item>
+<item>Add an example to illustrate the topic.</item>
+</list>
+</note>
+<para id="fs-idm324844448">Going deeper into this <emphasis effect="italics">build</emphasis> stage, we can see that the steps take an entrepreneur through a cycle or loop that begins with defining the problem at hand and building the <term class="no-emphasis">MVP</term> to show potential consumers a sample of the product and see how they react. In many cases, selling this low-quality product can also help measure user reactions. Metrics, or measurements, are developed to test the product assumptions of the engineers who created it. The goal is to test the MVP with its target market by asking questions about the design, usability, core or bundle of benefits, and other attributes that enhance the customer experience.</para>
+<para id="fs-idm353175664">For example, different design attributes can be measured by asking customers if they like a feature or set of features of the product they are testing. The number of likes or dislikes can be tallied, and comments can be collected on what additional features should be added or deleted. Once the feedback comes in, entrepreneurs can make changes. Then, they can move into the next stage, which is to <emphasis effect="italics">measure</emphasis> whether the changes to the product based on the feedback are actually helping make progress.</para>
+<para id="fs-idm355964064">Along with a minimal product offering, <term class="no-emphasis">Ries</term> advocates using a minimal financial evaluation concept called <term>innovation accounting</term> to assess whether the changes made to the product are creating the desired results. This means that entrepreneurs should not look first to the basic financial measurements traditional to businesses—such as sales, profits, and return on investment—because these traditional measurements aren’t the most relevant metrics at this stage. Instead, they should measure progress in a different way. Measurements may include testing assumptions about the business, attributes that customers like, sign-ups, and retention rates that can be separated into cohorts and tested, say weekly, as changes to the products are made.</para>
+<note id="fs-idm318270480" class="link-to-learning">
+<para id="fs-idm508271856">Read this <link url="https://openstax.org/l/52InnovAccount">article on innovation accounting</link> and notice the available metrics that measure progress and the instances in which they are effective.</para>
+</note>
+<para id="fs-idm366190016">During the <emphasis effect="italics">learn</emphasis> stage, the entrepreneur uses the feedback obtained to assess the progress of the product in an objective manner. The entrepreneur makes changes to the MVP and starts the cycle over again until the process has reached a point where it either accelerates or needs to pivot.<footnote id="fs-idm337547376">Eric Ries. <emphasis effect="italics">The Lean Startup</emphasis> (New York: Crown Business, 2011), 76–183.</footnote></para>
+<para id="fs-idm338110656">As a learning component for the company, feedback is very important in the lean process. Feedback helps companies design better products and make iterations, or newer versions, which better serve the customer base. Companies will work with early adopters for a while before they expand their reach with a better product and entice more people to use it.</para>
+<note id="fs-idm316179232" class="entrepreneur-in-action">
+<title>General Electric Is Big <emphasis effect="italics">and</emphasis> Lean</title>
+<para id="fs-idm337760624"><term class="no-emphasis">General Electric (GE)</term> is a company that has been around for many years and boasts a tremendous portfolio of businesses under its parent company. Eric Ries managed to encourage this giant to take advantage of the lean startup movement by collaborating with him in a new program called <term class="no-emphasis">Fast Works</term>. This program was essentially created to imbue its product development method with the principles of lean innovation by training thousands of employees in the methodology and helping them develop desirable products at a faster pace.</para>
+<para id="fs-idm341399376">For example, GE improved a turbine using the lean approach by asking for customer feedback. Many customers needed different features, such as improved reliability, better fuel efficiency, and faster operation. The team working on this project decided to use Fast Works to fulfill all of the customers’ requests. This approach would allow them to shorten the development process and save the customers money. Three hundred members of the GE turbine team knew that this would be a difficult task given their locations around the world and the processes involved in approvals, so they got to work. Some focused on streamlining the approval process, while some worked on bottlenecks and encouraged low-level engineers to make difficult decisions without asking upper management. These two changes allowed them to pivot quickly, while gathering feedback and making changes to the turbine effectively. After using FastWorks, the team reduced development time by a quarter—from four to three years. They saved $5 million dollars in fuel per year for their customers, while increasing their revenues by $6 million per year.<footnote id="fs-idm482370624">Bruce Watson. “The Startup Power Plant: These Engineers Are Building Turbines the Silicon Valley Way.” <emphasis effect="italics">General Electric</emphasis>. May 3, 2017. https://www.ge.com/reports/startup-power-plant-adapting-silicon-valley-methods-building-turbines/</footnote></para>
+</note>
+</section>
+<section id="fs-idm320854736">
+<title>Iterating, Pitching, and Pivoting</title>
+<para id="fs-idm491741280">Many companies invest significant time and effort on projects that seem like great ideas in theory but flop when taken to market. The <term class="no-emphasis">lean startup</term> method is a new way to develop and manage products that people want in a shorter period of time. Companies are able to learn from customer discovery and validation that the offer or value of the product is not working and needs to be enhanced or changed.</para>
+<para id="fs-idm337630608">After Ries experienced his first business loss, he recognized the problem of companies devoting time and money on projects rejected by consumers, and he wanted to identify a solution. As he started his new company’s avatar community, he enabled his teams to put the product through iterations—those small changes to the current version of a product to make it better fit consumer needs. At this phase, and using lessons from his first failure, he strove to create a bare-bones version of a product that worked well enough to provide core value to the customer, garner customer feedback, and make small adaptations around what users considered most essential. This allowed <term class="no-emphasis">IMVU</term> to enhance the product in a way that brought the company, step by step, closer to providing the best value.</para>
+<para id="fs-idm337577648">One <term class="no-emphasis">iteration</term> that proved enormously successful was adjusting how the avatar moved through its virtual reality world. The original avatars didn’t have the ability to walk around like they do in, say, popular multiplayer video games. Even though he knew this was a disadvantage, he sent the version to early adopters and asked for feedback. Customers responded that the lack of movement suggested the software was low quality. Reluctant to make the major tech investment for this movement, Ries and his team decided to try a very small iteration as an alternative: They made the avatar disappear from its starting point and reappear in its new location. Customers responded positively, seeing this as superior to what existed and as a high- quality variation. The quick and low-cost iteration turned out to be the best path to success.<footnote id="fs-idm322598912">Eric Ries. <emphasis effect="italics">The Lean Startup</emphasis> (New York: Crown Business, 2011), 108.</footnote></para>
+<para id="fs-idm333441632">In addition, while this process is ongoing, the entrepreneur is constantly pitching the idea to potential consumers and investors. Pitching can be intimidating for entrepreneurs, as they can get nervous speaking in front of people. However, pitching can be as important as building the right product for the right target: It needs to be practiced and mastered.</para>
+<para id="fs-idm336035920"><term class="no-emphasis">Pitching</term> is the verbal delivery of an idea or business plan, and a request to a group of investors, customers, or potential business partners by an entrepreneur (<link document="m71142">Telling Your Entrepreneurial Story and Pitching the Idea</link>). As an entrepreneur, knowing how to pitch your business concept to investors is one of the keys to success. However, if you’re using the learn startup approach, your pitch likely needs to be quite different from a regular pitch.</para>
+<para id="fs-idm341471392">The <term>lean pitch</term> requires the presenter to craft an exciting and well-developed story about the company, its product, and what makes the product unique, with enough detail to show that the company is more than a story in the presenter’s mind. The lean approach is customer centric and tries to solve customers’ problems and resolve issues, and it measures its product over and over again until it is right. The story must show the process of understanding their customers as well as their problems and issues. Then, there must be an explanation of iterations, design tests, and learning from customer feedback that demonstrates the customer-centric approach. Experiments, data, and insights are shared to show the company’s progress. As you recall from <link document="m71142">Telling Your Entrepreneurial Story and Pitching the Idea</link>, using a regular pitch approach, the presenter gives all of the details of the product and the future launch. This traditional pitch asks for an investment without having tested assumptions or having much data or experiments to show that the idea will work.<footnote id="fs-idm357308880">Andy Cars. “How to Pitch to Investors Using a Lean Startup Approach.” <emphasis effect="italics">Medium</emphasis>. March 15, 2017. https://medium.com/lean-startup-circle/how-to-pitch-to-investors-using-a-lean-startup-approach-852f7a503d84</footnote> Increasingly, successful lean pitching requires the presenters to have some sort of validation of their business model because this shows more truth to the vision. Many investors look for companies that have some time invested and a seed customer base under their belt. They are particularly interested in those who know their sales numbers, their costs, their sales projections, and have a track record of increased sales, customers, and profit. <link target-id="fs-idm325291072"/> shows a step-by-step approach to pitching to investors and potential partners.</para>
+<table id="fs-idm325291072" summary="No Summary" class="top-titled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Lean Startup Pitching</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Step</entry>
+<entry valign="top" align="center">Tips</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">1. Tell an exciting story that quickly moves into tangible results</entry>
+<entry valign="top" align="left">Don’t do a sales pitch; be yourself by being open and authentic. Craft an exciting and well-designed story to capture your audience and introduce this as a business that is already up and running so investors know from the beginning that you are using lean startup techniques.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">2. Describe the problem and solution at hand and what makes you unique.</entry>
+<entry valign="top" align="left">Clearly define the problem you are solving and how you are already solving the problem with the best tested/measured solution.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">3. Describe the target market and how it will benefit from the product.</entry>
+<entry valign="top" align="left">Show that you understand your potential customer because you have gotten customer feedback. Give examples of early product development and share key customer feedback that helped you enhance or incorporate new benefits. Demonstrate the product, focusing on the benefits, not the features.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">4. State your position with facts and achieved results.</entry>
+<entry valign="top" align="left">Show additional tests, experiments, customer feedback, and anything that can back your claims. Show actual data and insights collected, emphasizing validated facts and assumptions you have made. Describe early challenges and how you adapted without giving up.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">5. Be simple</entry>
+<entry valign="top" align="left">Don’t use jargon. Speak as if you were explaining it to a stranger sitting next to you in a coffee shop.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">6. Show current progress</entry>
+<entry valign="top" align="left">Show what you have accomplished in sales/profit so far.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">7. Finish with the ask</entry>
+<entry valign="top" align="left">Close up your pitch by identifying what you are seeking. If you are looking for an investment, a partnership, a new member to join you, or an advisor, finish with the ask.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm373391120">After carefully going through the <term class="no-emphasis">build-measure-learn loop</term>, there comes a point where the company either accelerates or realizes it’s time to pivot. <term>Pivoting</term> is a crucial and often difficult change done to test a hypothesis regarding the basic product, its growth potential, and business model. Once the product has been tested and retested for changes in consumer behavior, or any metric that the company sets itself to attain, if it’s not attaining growth, then the next step is to pivot instead of continuing down the current path.</para>
+<para id="fs-idm343027648">This is a time for tough decisions: Should you continue working on the business, product, or project—or should you change? Is the company making progress toward its goals, or do the strategies need major adjustments? While measurable data, such as attribute likes and dislikes, or number of sign ups, are gathered during the measure stage, the lean startup process also has a component that is creative, intuitive, and visionary. Knowing when to change cannot be determined solely through number crunching. It also requires human judgment, which, when coupled with the build-measure-learn formula, can lift a company out of mediocrity.</para>
+<note id="fs-idm355482672" class="work-it-out">
+<title>Ten Ways to Pivot</title>
+<para id="fs-idm375748160">Read this article from Forbes.com to see more examples of the kinds of pivots entrepreneurs can make: https://www.forbes.com/sites/martinzwilling/2011/09/16/top-10-ways-entrepreneurs-pivot-a-lean-startup/#3286d2422d2b.</para>
+<list id="fs-idm378110288" list-type="bulleted">
+<item>Which one(s) would be best for your current business project? Why?</item>
+<item>What product features would you have in place to ensure future growth without investing too much?</item>
+</list>
+</note>
+<para id="fs-idm512489808">If a business is not growing, it is <term class="no-emphasis">shrinking</term> or <term class="no-emphasis">stagnating</term>.<footnote id="fs-idm321348576">Eric Ries, <emphasis effect="italics">The Lean Startup</emphasis> (New York: Crown Business, 2011), 149–178</footnote> A pivot, just like in basketball, requires one foot down on the ground, and the other moving. This means that you keep what you have learned from customers as your grounding foot but test out a different direction in which to move. Here are examples of famous pivots:</para>
+<list id="fs-idm357622416" list-type="bulleted">
+<item><term class="no-emphasis">Twitter</term> transformed into a social media giant from a company called <term class="no-emphasis">Odeo</term>, a broadcast platform that was initially created to transmit video, sound, and podcasts. However, <term class="no-emphasis">Apple</term> beat them by launching <term class="no-emphasis">iTunes</term> podcasting, and it didn’t make sense for the founders of the company to pursue that path, so they decided to create Twitter instead.</item>
+<item><term class="no-emphasis">PayPal</term> (formerly <term class="no-emphasis">Confinity</term>) allowed people to send electronic payments or “beam” payments from their Palm Pilots (first personal digital assistants created by <term class="no-emphasis">Palm Computing</term>) as well as from other devices. At that time, PayPal users registered a card number, downloaded the beam application, and were able to make transfer payments from one device to another. As technology changed, it merged with <term class="no-emphasis">X.com</term> to become the preferred payment method on <term class="no-emphasis">Ebay</term>, helping the company go mainstream.</item>
+<item><term class="no-emphasis">Avon</term> was created by a traveling book salesman who would add perfumes to his sales as perks for his woman customers. Eventually, he realized that women were more interested in the perfumes than the books, so he started a new business from a small office in New York.</item>
+<item><term class="no-emphasis">Fab.com</term>, a design e-commerce website, was initially called <term class="no-emphasis">Fabulis</term>, and it started as a social media site to connect gay men. After the social media site failed, the co-founders took it into a new direction by selling their design picks for the best home goods, accessories, and clothing for everyone.<footnote id="fs-idm319199152">Jason Nazar. “14 Famous Business Pivots.” <emphasis effect="italics">Forbes</emphasis>. October 8, 2013. https://www.forbes.com/sites/jasonnazar/2013/10/08/14-famous-business-pivots/</footnote></item>
+</list>
+<note id="fs-idm321417408" class="work-it-out">
+<title>The Market for Experiences</title>
+<para id="fs-idm319417328">Since the 2009 recession, people have spent more on <emphasis effect="italics">experiences</emphasis> like travel and dining, rather than goods. Instead of owning many products, people, especially Millennials and Gen Zers, are transforming many industries. They prefer to travel by <term class="no-emphasis">Uber</term> and have an <term class="no-emphasis">Airbnb</term> experience where places and people are more important than things. They would rather freelance than work for a corporation and are more likely to try new foods and entertainment instead of accumulating possessions. This market trend has led many large retailers to downsize or close all together. Smaller retailers have been hurt as well. However, online retailers, home stores, and grocery chains have remained largely immune to the changes in buying habits.</para>
+<list id="fs-idm467238944" list-type="bulleted">
+<item>If you were a specialty retailer that focused on selling sports clothing and gear, and had several regional stores around the country, how would you pivot your business to avoid slowing sales?</item>
+<item>Create a step-by-step list of your main strategies and how each would help avoid closing down your business.</item>
+</list>
+</note>
+<para id="fs-idm338127824">You may wonder, how many times can a company pivot? <term class="no-emphasis">Ries</term> likes to use a runway analogy: You must measure how long you have until your company can achieve its goals, and whether you fail to lift (burn through all your cash resources) or have a liftoff (generate sales, sign ups, add new customers). The runway can be calculated by taking the amount of cash that is in the bank and dividing that by how much is being spent or drained on that balance. So if your company has $550,000 in the bank, and it drains or burns $50,000 per month, then you have a projected time of 11 months (550,000/50,000). A way to slow down the cash drain—and to extend the runway—is to cut some costs or ask investors for additional cash.<footnote id="fs-idm514709536">Eric Ries. <emphasis effect="italics">The Lean Startup</emphasis> (New York: Crown Business, 2011), 160.</footnote></para>
+<para id="fs-idm326106704">There are also different types of pivots for different needs. <link target-id="fs-idm373767152"/> shows ten pivots an entrepreneur can make according to feedback.</para>
+<table id="fs-idm373767152" summary="No Summary" class="top-titled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Types of Pivots<footnote id="fs-idm341002432">Eric Ries. <emphasis effect="italics">The Lean Startup</emphasis> (New York: Crown Business, 2011).</footnote></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Pivot Strategy</entry>
+<entry valign="top" align="center">Description</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Zoom-in</entry>
+<entry valign="top" align="left">A product’s single feature becomes a whole product.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Zoom-out</entry>
+<entry valign="top" align="left">This is the reverse of zoom-in. A single feature is not enough for a customer, so the product needs added features.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Customer segment</entry>
+<entry valign="top" align="left">There is a need to change the customer segment, as the one studied is not representative of who will buy the product at a larger scale.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Customer need</entry>
+<entry valign="top" align="left">Feedback from customers shows that the problem solved is not important. The product needs to be repositioned, or a new product needs to be created to solve a real problem.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Platform</entry>
+<entry valign="top" align="left">A change from an application to a platform or the other way around is needed. Startups usually begin with what is called a “killer app” for their platform, which later becomes a way for third parties to create their own products.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Business architecture</entry>
+<entry valign="top" align="left">This is a change from high margin, low volume to low margin, high volume. This happens in business-to-business (B2B) and business-to-customer (B2C), respectively.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Value capture</entry>
+<entry valign="top" align="left">These are changes in monetization or capturing value (raising capital).</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Engine of growth</entry>
+<entry valign="top" align="left">A startup changes its engine of growth (sticky, paid, or viral paid growth models for revenue). Usually, the company requires a change in the way it collects revenue.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Channel</entry>
+<entry valign="top" align="left">Distribution channels are changed when the product requires faster or broader alternatives to reach consumers. The Internet has become a great disruptor of channels.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Technology</entry>
+<entry valign="top" align="left">Sometimes achieving a solution that serves an existing customer through cheaper means occurs when other technology is used (new production equipment, new software, etc.). This is more common with established businesses.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Eric Ries outlines these ten pivot strategies in <emphasis effect="italics">The Lean Startup</emphasis>.</caption>
+</table>
+<note id="fs-idm350648384" class="entrepreneur-in-action">
+<title>Nintendo</title>
+<para id="fs-idm323721376"><term class="no-emphasis">Nintendo</term> could have gone sour in the gaming world had it not made a fateful pivot at a stark time. Created in 1889 (surprising, right?) in Kyoto, Japan, Nintendo manufactured “hanafuda,” or flower cards (pictured in <link target-id="OSX_Eship_10_01_Nintendo"/>) <emphasis effect="bold">(a)</emphasis> used to play card games. It was humming along until the card game industry started to decline in the 1960s. Fusajiro <term class="no-emphasis">Yamauchi</term>, founder of Nintendo, tried to move into other markets by also providing hotel and taxi services. These pivots proved unsuccessful choices, and Nintendo almost closed its doors. However, it continued to manufacture its cards, which now had a plastic coating, and, thanks to a deal with <term class="no-emphasis">Disney</term>, had moved into the character cards market.</para>
+<para id="fs-idm321695872">Still, the company hobbled along until, thankfully, one of the line assembly engineers created a device that would reboot sales. He designed a toy called the Ultra Hand, which children could manipulate to reach objects far and away. After successfully selling a million units, the company rebranded itself as <term class="no-emphasis">Nintendo Games</term> and entered the growing toy market.</para>
+<para id="fs-idm369008512">Their foray into video games found its first success with the release of the Color TV Block Breaker game in 1977 (pictured in <link target-id="OSX_Eship_10_01_Nintendo"/> <emphasis effect="bold">(b)</emphasis>). In 1981, when technology was changing the gaming industry, Nintendo created Donkey Kong, and later in the 1980s, Mario Brothers. Thanks to this great pivot, Nintendo is now worth over $22 billion and continues to thrive as one of the top gaming companies in the world.<footnote id="fs-idm367691664">Mary McCoy. “5 Cases of Companies That Successfully Pivoted Business Models.” <emphasis effect="italics">Continuum</emphasis>. July 21, 2015. https://www.continuum.net/blog/5-cases-of-companies-that-successfully-pivoted-business-models</footnote></para>
+<figure id="OSX_Eship_10_01_Nintendo">
+<media id="fs-idm367484272" alt="(a) A photo of playing cards decorated with flowers. (b) A hand-held video game device.">
+<image mime-type="image/jpeg" src="../../media/OSX_Eship_10_01_Nintendo.png"/>
+</media>
+<caption>Nintendo started as a small company that created (a) Hanafuda cards and (b) the Color TV Block Breaker. Today Nintendo is one of the largest companies in the gaming industry valued at over $22 billion. (credit (a): modification of “Koi-Koi Setup” by “Aldaron”/Wikimedia Commons, CC BY-SA 3.0; credit (b): modification of “Nintendo-Color-TV-Game-Blockbreaker-FL”by “Evan-Amos”/Wikimedia Commons, Public Domain)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-idm374048464" class="section-summary">
+<title>Summary</title>
+<para id="fs-idm326056560">There is no such thing as launching a perfect business. A startup requires time to clarify its identity, market, product, and business model through the build-measure-learn loop, which requires businesses to describe or <emphasis effect="italics">build</emphasis> a prototype of a product, ask for feedback from potential and actual early customers, <emphasis effect="italics">measure</emphasis> their responses, and <emphasis effect="italics">learn</emphasis> from that feedback and make changes to improve the product to something customers want. Older companies usually have a more stable and developed set of strategies because they have been in business for a while, but even they have opportunities to innovate and grow. The lean startup method provides an opportunity for companies to approach management in a measurable and provable way. Customer feedback allows the companies to make iterations and pivots that are necessary to get back on the right track. Pitching to investors can yield better results when using the lean approach, because investors like to see experience-gained data. The lean startup method is a tested way for new and old companies to stay in business and operate, even when there is a lot of uncertainty.</para>
+</section>
+<section id="fs-idm355115584" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idm368619840">
+<problem id="fs-idm359946960">
+<para id="fs-idm343903952">What is pivoting?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm367639200">
+<problem id="fs-idm377943792">
+<para id="fs-idm341426368">How is pitching different in the lean startup method?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm375147936">
+<problem id="fs-idm375068880">
+<para id="fs-idm358605360">What is the lean startup process?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm369427088">
+<problem id="fs-idm323568544">
+<para id="fs-idm377661008">What are some examples of an MVP?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm375079584" class="discussion-questions">
+<title>Discussion Questions</title>
+<exercise id="fs-idm380839712">
+<problem id="fs-idm331612736">
+<para id="fs-idm329595824">Find an example of a video of a lean pitch online. What, in your opinion, makes it successful?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm378018560">
+<problem id="fs-idm343019968">
+<para id="fs-idm331548144">Find a company that has made a pivot and explain why the pivot worked.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm342491488">
+<problem id="fs-idm359936496">
+<para id="fs-idm352941344">If you were starting a business and had to create an MVP, what would that MVP be?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm356004000">
+<problem id="fs-idm369194464">
+<para id="fs-idm353386736">Are there any downsides to the lean startup method? If so, what might they be and what sorts of products or companies might fall prey to them?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm466612304">
+<problem id="fs-idm373588048">
+<para id="fs-idm373053104">If you were conducting a lean pitch to investors, which steps of the pitch would you find most difficult and why?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm339308144" class="case-questions">
+<title>Case Questions</title>
+<exercise id="fs-idm368020512">
+<problem id="fs-idm340880496">
+<para id="fs-idm369376800">A friend recently heard that you won a pitching competition and she would like you to help her with her business pitch to investors. She started a company called “Fit for You,” a prosthetics company for children and adults that is using the latest materials and technology to help people live better lives. She has been in business for a year, and she uses lean methodology to innovate and create better products, but she needs capital to buy additional equipment to meet demand. She has determined that investors would be the best funding source for her needs. What should she focus on in a five-minute lean pitch to investors to secure the $120,000 for additional equipment?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm368500768">
+<problem id="fs-idm376907264">
+<para id="fs-idm369588688">One of your friends has recently opened a 24-hour gym for women ages 18–45. She is excited about the opening but wants to ensure that she is providing the right services to her customers and is wondering whether she did enough research up front to really figure it out. She comes to you for advice. What would you tell her?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-idm354258624" class="suggested-resources">
+<title>Suggested Resources</title>
+<para id="fs-idm364251168">Lean startup: http://theleanstartup.com/#principles</para>
+<para id="fs-idm359981968">Toyota’s Way: https://vimeo.com/44328452</para>
+<para id="fs-idm368889104">14 Management Principles of Toyota: http://www.panview.nl/en/lean-production/toyota-way-j-liker-summary</para>
+<para id="fs-idm352979040">Innovation accounting video: https://www.inc.com/eric-ries/entrepreneur-eric-ries-innovation-accounting-secret-to-fast-growth.html</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm319411520">
+<term>build-measure-learn loop</term>
+<meaning id="fs-idm359556976">step-by-step approach on how to maneuver a startup, how to change course if necessary, how to persevere, and how to accelerate the expansion of a business</meaning>
+</definition>
+<definition id="fs-idm369504880">
+<term>early adopters</term>
+<meaning id="fs-idm342617664">people who like to try new things and can be found at the onset of the adoption process for a product</meaning>
+</definition>
+<definition id="fs-idm331542496">
+<term>innovation accounting</term>
+<meaning id="fs-idm359367808">assesses whether the changes made to the product are creating the desired results</meaning>
+</definition>
+<definition id="fs-idm355280128">
+<term>iterations</term>
+<meaning id="fs-idm373916000">small changes to the current version of a product to make it better fit consumer needs</meaning>
+</definition>
+<definition id="fs-idm377861248">
+<term>lean startup</term>
+<meaning id="fs-idm344447552">methodology entrepreneurs use this method to help them innovate by continuously testing their products and getting feedback from customers in real time</meaning>
+</definition>
+<definition id="fs-idm359452928">
+<term>lean pitch</term>
+<meaning id="fs-idm469525968">verbal delivery of an idea or business plan as a request to a group of investors by an entrepreneur</meaning>
+</definition>
+<definition id="fs-idm357228928">
+<term>minimum viable product (MVP)</term>
+<meaning id="fs-idm323098816">early version or prototype of a product that may not be polished or complete but that functions well enough that you can begin to market it or test it with potential users</meaning>
+</definition>
+<definition id="fs-idm512793344">
+<term>pivoting</term>
+<meaning id="fs-idm339225488">crucial change done to test a hypothesis regarding the basic product, its growth potential, and business model; if something is not working, then a change or a “pivot” needs to take place</meaning>
+</definition>
+</glossary>
+</document>
