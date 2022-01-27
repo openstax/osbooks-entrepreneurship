@@ -1,3 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="entrepreneurship" collection-id="col29104" href="../collections/osbooks-entrepreneurship.collection.xml" />
+    <book slug="entrepreneurship" collection-id="col29104" style="entrepreneurship" href="../collections/osbooks-entrepreneurship.collection.xml" />
 </container>
